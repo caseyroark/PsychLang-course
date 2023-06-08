@@ -1,0 +1,970 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrreprt}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Psychology of Language},
+  pdfauthor={Casey L. Roark},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Psychology of Language}
+\author{Casey L. Roark}
+\date{2023-06-08}
+
+\begin{document}
+\maketitle
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[frame hidden, sharp corners, boxrule=0pt, borderline west={3pt}{0pt}{shadecolor}, breakable, interior hidden, enhanced]}{\end{tcolorbox}}\fi
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\bookmarksetup{startatroot}
+
+\hypertarget{welcome}{%
+\chapter*{Welcome!}\label{welcome}}
+\addcontentsline{toc}{chapter}{Welcome!}
+
+\markboth{Welcome!}{Welcome!}
+
+\begin{figure}
+
+{\centering \includegraphics[width=4.0625in,height=\textheight]{images/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg}
+
+}
+
+\end{figure}
+
+\hypertarget{learn-about-the-cognitive-and-neural-basis-of-our-remarkable-abilities-to-communicate}{%
+\subsubsection*{Learn about the cognitive and neural basis of our
+remarkable abilities to
+communicate}\label{learn-about-the-cognitive-and-neural-basis-of-our-remarkable-abilities-to-communicate}}
+\addcontentsline{toc}{subsubsection}{Learn about the cognitive and
+neural basis of our remarkable abilities to communicate}
+
+~
+
+\hypertarget{psyc-712w---fall-2023}{%
+\paragraph*{\texorpdfstring{{PSYC 712W - Fall
+2023}}{PSYC 712W - Fall 2023}}\label{psyc-712w---fall-2023}}
+\addcontentsline{toc}{paragraph}{{PSYC 712W - Fall 2023}}
+
+\hypertarget{department-of-psychology}{%
+\paragraph*{\texorpdfstring{{Department of
+Psychology}}{Department of Psychology}}\label{department-of-psychology}}
+\addcontentsline{toc}{paragraph}{{Department of Psychology}}
+
+\hypertarget{university-of-new-hampshire}{%
+\paragraph*{\texorpdfstring{{University of New
+Hampshire}}{University of New Hampshire}}\label{university-of-new-hampshire}}
+\addcontentsline{toc}{paragraph}{{University of New Hampshire}}
+
+~
+
+\hypertarget{instructor}{%
+\subsection*{Instructor}\label{instructor}}
+\addcontentsline{toc}{subsection}{Instructor}
+
+\begin{itemize}
+\tightlist
+\item
+  \faIcon{user} ~ \href{www.roarklab.com}{Dr.~Casey L. Roark}
+\item
+  \faIcon{university} ~ 440 McConnell Hall
+\item
+  \faIcon{envelope} ~
+  \href{mailto:casey.roark@unh.edu}{\nolinkurl{casey.roark@unh.edu}}
+\item
+  \faIcon{twitter} ~
+  \href{https://www.twitter.com/caseyroark}{caseyroark}
+\item
+  \faIcon{calendar-check} ~ Wednesday 1-3 pm or by appointment
+\end{itemize}
+
+\hypertarget{course-details}{%
+\subsection*{Course details}\label{course-details}}
+\addcontentsline{toc}{subsection}{Course details}
+
+\begin{itemize}
+\tightlist
+\item
+  \faIcon{calendar} ~ Tuesday and Thursday
+\item
+  \faIcon{calendar-alt} ~ Fall 2023
+\item
+  \faIcon{clock} ~ 2:10-3:30 pm
+\item
+  \faIcon{location-dot} ~ HORT 215
+\end{itemize}
+
+\hypertarget{contacting-me}{%
+\subsection*{Contacting me}\label{contacting-me}}
+\addcontentsline{toc}{subsection}{Contacting me}
+
+E-mail is the best way to get in contact with me. I will try to respond
+to all course-related e-mails within 24 hours (really), but also
+remember that life can be busy and chaotic for everyone (including me!),
+so if I don't respond right away, don't worry!
+
+\bookmarksetup{startatroot}
+
+\hypertarget{syllabus}{%
+\chapter*{Syllabus}\label{syllabus}}
+\addcontentsline{toc}{chapter}{Syllabus}
+
+\markboth{Syllabus}{Syllabus}
+
+\hypertarget{course-information}{%
+\section*{Course information}\label{course-information}}
+\addcontentsline{toc}{section}{Course information}
+
+\markright{Course information}
+
+\hypertarget{instructor-1}{%
+\subsection*{Instructor}\label{instructor-1}}
+\addcontentsline{toc}{subsection}{Instructor}
+
+\begin{itemize}
+\tightlist
+\item
+  \faIcon{user} ~ \href{www.roarklab.com}{Dr.~Casey L. Roark}
+\item
+  \faIcon{university} ~ 440 McConnell Hall
+\item
+  \faIcon{envelope} ~
+  \href{mailto:casey.roark@unh.edu}{\nolinkurl{casey.roark@unh.edu}}
+\item
+  \faIcon{twitter} ~
+  \href{https://www.twitter.com/caseyroark}{caseyroark}
+\item
+  \faIcon{calendar-check} ~ Wednesday 1-3 pm or by appointment
+\end{itemize}
+
+\hypertarget{course-details-1}{%
+\subsection*{Course details}\label{course-details-1}}
+\addcontentsline{toc}{subsection}{Course details}
+
+\begin{itemize}
+\tightlist
+\item
+  \faIcon{caret-right} ~ PSYC 712W -- Psychology of Language
+\item
+  \faIcon{check-square} ~ Pre-requisites: PSYC 402, 505, 512, 513 or
+  permission
+\item
+  \faIcon{calendar} ~ Tuesday and Thursday
+\item
+  \faIcon{calendar-alt} ~ Fall 2023
+\item
+  \faIcon{clock} ~ 2:10-3:30 pm
+\item
+  \faIcon{location-dot} ~ HORT 215
+\end{itemize}
+
+\hypertarget{course-overview}{%
+\section*{Course Overview}\label{course-overview}}
+\addcontentsline{toc}{section}{Course Overview}
+
+\markright{Course Overview}
+
+Psychology of Language explores the cognitive and neural bases of human
+language. We use language in our everyday lives mostly effortlessly and
+without thinking. But underneath it all, language is extraordinarily
+complex. In this course, through lectures, reading, writing, and
+discussion, we will explore some of the feats and challenges of human
+language including (but not limited to):
+
+\begin{itemize}
+\tightlist
+\item
+  Components of language such as speech perception, speech production,
+  reading, writing
+\item
+  Whether language is a uniquely human and innate ability
+\item
+  How children develop the ability to speak and understand language
+\item
+  How language functions in the brain
+\item
+  The relationship between language and thought
+\item
+  What happens when language does not function typically
+\end{itemize}
+
+\hypertarget{course-materials-required}{%
+\section*{Course materials (required)}\label{course-materials-required}}
+\addcontentsline{toc}{section}{Course materials (required)}
+
+\markright{Course materials (required)}
+
+\begin{itemize}
+\tightlist
+\item
+  Christiansen, M. H. \& Chater, N. (2022).
+  \href{https://bookshop.org/p/books/the-language-game-how-improvisation-created-language-and-changed-the-world-nick-chater/16984145?ean=9781541674981}{The
+  Language Game: How improvisation created language and changed the
+  world}. Basic Books.
+\item
+  Sedivy, J. (2014).
+  \href{https://www.amazon.com/Language-Mind-Psycholinguistics-Julie-Sedivy/dp/1605357057}{Language
+  in Mind: An introduction to psycholinguistics}. Second edition. Oxford
+  University Press.
+\item
+  Other PDFs will be provided on the
+  \href{https://my.unh.edu/canvas}{course website}.
+\end{itemize}
+
+\hypertarget{course-description}{%
+\section*{Course Description}\label{course-description}}
+\addcontentsline{toc}{section}{Course Description}
+
+\markright{Course Description}
+
+Theories of language structure, functions of human language, meaning,
+relationship of language to other mental processes, language
+acquisition, indices of language development, speech perception,
+reading.
+
+\hypertarget{course-learning-objectives}{%
+\section*{Course Learning Objectives}\label{course-learning-objectives}}
+\addcontentsline{toc}{section}{Course Learning Objectives}
+
+\markright{Course Learning Objectives}
+
+Upon completion of this course students will
+
+\begin{itemize}
+\tightlist
+\item
+\item
+\end{itemize}
+
+\hypertarget{course-structure}{%
+\section*{Course Structure}\label{course-structure}}
+\addcontentsline{toc}{section}{Course Structure}
+
+\markright{Course Structure}
+
+\href{https://my.unh.edu/canvas}{myCourses} is the learning management
+tool we use for this course. The course is organized by class meetings.
+You will be able to find external readings and submit assignments.
+Please do not message me through myCourses -- email me instead.
+
+\hypertarget{grades}{%
+\section*{Grades}\label{grades}}
+\addcontentsline{toc}{section}{Grades}
+
+\markright{Grades}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3261}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1522}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.5217}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Item
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\% of final grade
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Requirements
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Quizzes & 15\% & There are 5 quizzes for this course, which are
+scheduled on the course calendar. Each quiz is worth 3\% of the final
+grade (5 quizzes x 3\% = 15\% total) \\
+Class Attendance, Participation, and Discussion & 20\% & Attending and
+participating in class are important parts of this course. Attendance
+will be taken in each class period. Participation will be assessed for
+each class period and students will be given multiple options for
+participation over the course of the semester (e.g., group discussion,
+pair discussion, self-reflection, in class activities, etc.) \\
+Thought Papers & 20\% & There are four required thought papers for this
+course. Each week will come with the opportunity to complete a thought
+paper and students are expected to complete at least four over the
+course of the semester. Each paper will be worth 5\% of the final grade
+(4 papers x 5\% = 20\% total) \\
+Lab Reports & 15\% & Students will be required to complete three lab
+reports during the semester. Each lab report will be worth 5\% of the
+final grade (3 lab reports x 5\% = 15\% total) \\
+Final Presentation & 15\% & There will be a final presentation in the
+final weeks of the semester. \\
+Final Paper & 15\% & There will be a final paper along with the
+presentation in the final weeks of the semester. \\
+\end{longtable}
+
+\hypertarget{technical-requirements-and-technical-support}{%
+\section*{Technical Requirements and Technical
+Support}\label{technical-requirements-and-technical-support}}
+\addcontentsline{toc}{section}{Technical Requirements and Technical
+Support}
+
+\markright{Technical Requirements and Technical Support}
+
+See \href{https://online.unh.edu/technical-requirements}{website
+listings} for current recommendations and requirements related to this
+course. For technical assistance please call (603) 862-4242 or fill out
+an \href{https://itsupport.unh.edu/onlinelearning/}{online support
+form}.
+
+\hypertarget{university-disability-accommodations}{%
+\section*{University Disability
+Accommodations}\label{university-disability-accommodations}}
+\addcontentsline{toc}{section}{University Disability Accommodations}
+
+\markright{University Disability Accommodations}
+
+The University is committed to providing students with documented
+disabilities equal access to all university programs and facilities. If
+you think you have a disability requiring accommodations, you must
+register with \href{http://www.unh.edu/studentaccessibility}{Student
+Accessibility Services (SAS)} or directly contact SAS at (603)
+862-2607.\\
+Please provide me with that information privately so that we can review
+those accommodations.
+
+\hypertarget{academic-honesty}{%
+\section*{Academic Honesty}\label{academic-honesty}}
+\addcontentsline{toc}{section}{Academic Honesty}
+
+\markright{Academic Honesty}
+
+Students are required to abide by the UNH Academic Honesty policy
+located in the \href{https://catalog.unh.edu/srrr/}{Student Rights,
+Rules, and Responsibilities Handbook}.
+
+Plagiarism of any type may be grounds for receiving an ``F'' in an
+assignment or an ``F'' in the overall course. Plagiarism is defined as
+``the unattributed use of the ideas, evidence, or words of another
+person, or the conveying the false impression that the arguments and
+writing in a paper are your own.'' (UNH Academic Honesty Policy, 09.3)
+Incidents are reported to the school dean and may be grounds for further
+action. If you have questions about proper citation refer to your
+department's writing guidelines. You can contact me at any time on this
+issue. Additional resources can be found through the
+\href{http://libraryguides.unh.edu/unhmcitingsources}{library guides on
+citing sources}.
+
+\hypertarget{note}{%
+\section*{Note}\label{note}}
+\addcontentsline{toc}{section}{Note}
+
+\markright{Note}
+
+This syllabus is subject to change. Students will be promptly notified
+of any changes.
+
+\bookmarksetup{startatroot}
+
+\hypertarget{course-schedule}{%
+\chapter*{Course Schedule}\label{course-schedule}}
+\addcontentsline{toc}{chapter}{Course Schedule}
+
+\markboth{Course Schedule}{Course Schedule}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.0750}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2125}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.3125}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.3000}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Week
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Date
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Topics
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Readings
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Assignments
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & T 8/29 & Introduction to Psychology of Language & & \\
+1 & Th 8/31 & Science of Language & Sedivy - chapter 1 C\&C - chapters
+1-2 & \\
+2 & T 9/5 & Brief Introduction to Language in the Brain & Sedivy -
+chapter 3 & \\
+2 & Th 9/7 & Speech Perception I & Sedivy - chapter 4 & Thought Paper
+Option A \\
+3 & T 9/12 & Speech Perception II & Sedivy - chapter 7 & Thought Paper
+Option B \\
+3 & Th 9/14 & Words, Meaning, and Concepts & Sedivy - chapter 5 C\&C -
+chapter 3 & Quiz 1 \\
+4 & T 9/19 & Words, Meaning, and Concepts & Sedivy - chapter 8 & Thought
+Paper Option C \\
+4 & Th 9/21 & Words, Meaning, and Concepts & Chen \& Rogers (2014) & Lab
+Report 1 \\
+5 & T 9/26 & Sentences and Syntax & Sedivy - chapter 6 & Quiz 2 Thought
+Paper Option D \\
+5 & Th 9/28 & Sentence Processing & Sedivy - chapter 9 & \\
+6 & T 10/3 & Speaking & Sedivy - chapter 10 & Quiz 3 Thought Paper
+Option E \\
+6 & Th 10/5 & Is language innate? & C\&C - chapter 4-5 Aslin \& Newport
+(2012) Goldin-Meadow \& Mylander (1998) & \\
+7 & T 10/10 & Is language special to humans? Non-human animal
+communication & Sedivy - chapter 2 C\&C - chapter 7 Based on groups:
+Herbranson (2012), Pepperberg (2002), or Ramus et al.~(2000) & Lab
+Report 2 \\
+7 & Th 10/12 & Is language special to humans? Language in machines &
+C\&C - epilogue Kallens et al.~(2023) & Thought Paper Option F \\
+8 & T 10/17 & First Language Acquisition / Language Development & Sedivy
+- chapter 12 Based on groups: Goodluck (2010), Arunachalam \& Waxman
+(2010), Gelman \& Meyer (2011), Romberg \& Saffran (2010), or Schwab \&
+Lew-Williams (2016) & \\
+8 & Th 10/19 & Second Language Acquisition & Juffs (2010) & Thought
+Paper Option G \\
+9 & T 10/24 & Reading I & Sedivy - chapter 11 Treiman (2000) & Thought
+Paper Option H \\
+9 & Th 10/26 & Reading II & Dehaene (2009) - selected pages & Lab Report
+3 \\
+10 & T 10/31 & Language and Communication Disorders I - Aphasia &
+Doedens \& Meteyard (2020) & Quiz 4 Thought Paper Option I \\
+10 & Th 11/2 & Language and Communication Disorders II - Dyslexia &
+Ozernov-Palchik \& Gaab (2016) pages 152-162 & \\
+11 & T 11/6 & Election Day; Sign Language and gesture & Brentari \&
+Coppola (2013) Goldin-Meadow (2016) & Thought Paper Option J (last
+option to choose what you are writing about!) \\
+11 & Th 11/9 & Language and Culture & Sedivy - chapter 13 C\&C - chapter
+6 & \\
+12 & T 11/14 & Language and Thought & C\&C - chapter 8 Boroditsky (2001)
+January \& Kako (2007) & Thought Paper Option K (if you haven't started
+now -- you need to do the last 4!) \\
+12 & Th 11/16 & Language in the Brain & Poeppel et al.~(2012) & Quiz
+5 \\
+13 & T 11/21 & Language in the Brain II & Hamilton \& Huth (2020) &
+Thought Paper Option L (only 3 left!) \\
+13 & Th 11/23 & Thanksgiving Break - No Classes & & \\
+14 & T 11/28 & Language and Music & Gordon et al.~(2015) Jantzen (2017)
+& Thought Paper Option M (only 2 left!) \\
+14 & Th 11/30 & Presentations & & \\
+15 & T 12/5 & Presentations & & Thought Paper Option N (only 1 left!) \\
+15 & Th 12/6 & Last day of class, Presentations & & \\
+Finals & T 12/12 & Reading Day & & \\
+Finals & 12/13 - 12/19 & Finals & & \textbf{Final Paper} \\
+\end{longtable}
+
+\part{Assignments}
+
+\hypertarget{lab-reports}{%
+\chapter*{Lab Reports}\label{lab-reports}}
+\addcontentsline{toc}{chapter}{Lab Reports}
+
+\markboth{Lab Reports}{Lab Reports}
+
+Over the course of the semester, you will complete three lab reports.
+For each lab report, you will participate in online example experiments
+of the Psychology of Language outside of class time. You may complete
+these experiments using computer labs or your own computer. For each
+assigned experiment, you are expected to read the accompanying article
+(available on Canvas) to be able to describe the methodology,
+hypotheses, and outcomes. Be sure to read the article after
+participating in the experiment!
+
+\hypertarget{lab-report-format}{%
+\section*{Lab Report Format}\label{lab-report-format}}
+\addcontentsline{toc}{section}{Lab Report Format}
+
+\markright{Lab Report Format}
+
+Your lab report should provide the following pieces of information:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Name of the lab and the date of your participation.
+\item
+  Write a description of what you did during the experiment.
+\item
+  Identify and explain how the independent variable(s) was/were
+  manipulated.
+\item
+  Identify and explain how the dependent variable(s) was/were measured.
+\item
+  State the experimental hypothesis.
+\item
+  State the outcomes of the experiment.
+\item
+  Describe whether you think your data are consistent with the outcomes
+  of the experiment. Why or why not?
+\item
+  Suggest future directions, such as how the experiment might be
+  modified to improve the investigation or examine effects in other
+  populations.
+\item
+  Write the APA-formatted citation of the accompanying article.
+\end{enumerate}
+
+Write clearly, concisely, and with complete sentences. You should
+complete the lab reports on your own. You should submit your lab reports
+to Canvas via the assignment links on or before the due date/time to
+receive full credit.
+
+An example lab report can be found \href{SampleLabReport.pdf}{here}.
+
+\hypertarget{lab-report-grading-rubric}{%
+\section*{Lab Report Grading Rubric}\label{lab-report-grading-rubric}}
+\addcontentsline{toc}{section}{Lab Report Grading Rubric}
+
+\markright{Lab Report Grading Rubric}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Criteria
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Great Job
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Needs Work
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1. Name and date & Provides accurate information (1 point) & Missing or
+inaccurate (0 points) \\
+2. Description & Provides clear and accurate description (1 point) &
+Missing, unclear, or inaccurate (0 points) \\
+3. Independent variables & Provides clear and accurate description (1
+point) & Missing, unclear, or inaccurate (0 points) \\
+4. Dependent variables & Provides clear and accurate description (1
+point) & Missing, unclear, or inaccurate (0 points) \\
+5. Experimental hypothesis & Provides clear and accurate description (1
+point) & Missing, unclear, or inaccurate (0 points) \\
+6. Outcomes & Provides clear and accurate description (1 point) &
+Missing, unclear, or inaccurate (0 points) \\
+7. Your data & Provides clear description and specifically discusses
+relation between your experience and the outcomes written in the article
+(1 point) & Missing, unclear, or does not discuss relation between your
+experience and the outcomes written in the article (0 points) \\
+8. Future directions & Provides unique future direction (1 point) & Does
+not provide unique future direction (0 points) \\
+9. APA-formatted citation & Provides accurate APA citation (1 point) &
+Does not provide accurate APA citation (0 points) \\
+Due date & Submitted on time (1 point) & Submitted late (0 points) \\
+\end{longtable}
+
+\hypertarget{lab-reports-this-semester}{%
+\section*{Lab Reports this Semester}\label{lab-reports-this-semester}}
+\addcontentsline{toc}{section}{Lab Reports this Semester}
+
+\markright{Lab Reports this Semester}
+
+\hypertarget{th-921-audio-visual-speech-in-noise-10-15-min}{%
+\subsection*{Th 9/21, Audio-visual speech in noise (10-15
+min)}\label{th-921-audio-visual-speech-in-noise-10-15-min}}
+\addcontentsline{toc}{subsection}{Th 9/21, Audio-visual speech in noise
+(10-15 min)}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://research.sc/participant/login/dynamic/BB2C8E1A-D299-4456-AEB0-6BEB59C7FFF5}{Link
+  to experiment}
+\item
+  Article: Karas et al.~(2019)
+\end{itemize}
+
+\hypertarget{th-928-sentence-prediction-5-min}{%
+\subsection*{Th 9/28, Sentence prediction (5
+min)}\label{th-928-sentence-prediction-5-min}}
+\addcontentsline{toc}{subsection}{Th 9/28, Sentence prediction (5 min)}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://research.sc/participant/login/dynamic/6824FDBF-4409-4B02-AE9E-10BA428B1D61}{Link
+  to experiment}
+\item
+  Article: Gambi et al.~(2021)
+\end{itemize}
+
+\hypertarget{th-1026-learning-new-words-through-reading-15-20-min}{%
+\subsection*{Th 10/26, Learning new words through reading (15-20
+min)}\label{th-1026-learning-new-words-through-reading-15-20-min}}
+\addcontentsline{toc}{subsection}{Th 10/26, Learning new words through
+reading (15-20 min)}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://research.sc/participant/login/dynamic/B3E7A61D-6F92-4B3A-B80A-8D8513D01C6B}{Link
+  to experiment}
+\item
+  Article: Hulme et al.~(2022)
+\end{itemize}
+
+\hypertarget{thought-papers}{%
+\chapter*{Thought Papers}\label{thought-papers}}
+\addcontentsline{toc}{chapter}{Thought Papers}
+
+\markboth{Thought Papers}{Thought Papers}
+
+You must choose four options (one from each section) and complete those
+papers by the due date. Each paper should be at least one page (not
+including references) double spaced with 12-point font.
+
+\hypertarget{section-1}{%
+\section*{Section 1}\label{section-1}}
+\addcontentsline{toc}{section}{Section 1}
+
+\markright{Section 1}
+
+\hypertarget{due-95-a-speech-perceptionintro}{%
+\subsection*{Due 9/5, A: speech
+perception/intro}\label{due-95-a-speech-perceptionintro}}
+\addcontentsline{toc}{subsection}{Due 9/5, A: speech perception/intro}
+
+In the Sedivy chapter, she writes about things that people say about
+language that are almost certainly wrong (Table 1.1). Sedivy puts both
+``You can learn language by watching television'' and ``You can't learn
+language by watching television'' on this list. Doing your own research
+online, write about the support for both claims. Do you think you can
+learn language by watching television? Relevant readings: Sedivy chapter
+1.
+
+\hypertarget{due-912-b-speech-perception}{%
+\subsection*{Due 9/12, B: speech
+perception}\label{due-912-b-speech-perception}}
+\addcontentsline{toc}{subsection}{Due 9/12, B: speech perception}
+
+Can speech perception be improved through training and practice? If yes,
+describe what might be a useful training paradigm. If no, explain why
+not. Relevant readings: Sedivy chapters 4 and 7.
+
+\hypertarget{due-919-c-conceptsspeech-production}{%
+\subsection*{Due 9/19, C: concepts/speech
+production}\label{due-919-c-conceptsspeech-production}}
+\addcontentsline{toc}{subsection}{Due 9/19, C: concepts/speech
+production}
+
+How do emotions and stress impact speech production? Give at least three
+examples of how different emotions influence speech production. Is
+emotional speech easier or harder to understand than neutral speech?
+Relevant readings: Sedivy chapters 5 and 10.
+
+\hypertarget{due-926-d-concepts}{%
+\subsection*{Due 9/26, D: concepts}\label{due-926-d-concepts}}
+\addcontentsline{toc}{subsection}{Due 9/26, D: concepts}
+
+How do our individual experiences and contexts shape our concepts? Can
+you think of any examples of how your own experiences or cultural
+background have influenced the way you understand certain concepts or
+categories? Relevant readings: Sedivy chapter 8.
+
+\hypertarget{section-2}{%
+\section*{Section 2}\label{section-2}}
+\addcontentsline{toc}{section}{Section 2}
+
+\markright{Section 2}
+
+\hypertarget{due-103-e-sentence-processing}{%
+\subsection*{Due 10/3, E: sentence
+processing}\label{due-103-e-sentence-processing}}
+\addcontentsline{toc}{subsection}{Due 10/3, E: sentence processing}
+
+Read the Introduction section (pages 1-2) of the
+\href{papers/Kinreichetal2017.pdf}{Kinreich et al.~(2017)} paper. Why do
+you think that couples would have more brain-to-brain synchrony than
+strangers? Do you think this would apply only to romantic couples? Why
+or why not? Why do you think our brains are capable of brain-to-brain
+synchrony? In other words, what is the advantage of having this ability?
+Relevant readings: Sedivy chapter 6 and 9.
+
+\hypertarget{due-1010-f-is-language-innatespecial}{%
+\subsection*{Due 10/10, F: Is language
+innate/special?}\label{due-1010-f-is-language-innatespecial}}
+\addcontentsline{toc}{subsection}{Due 10/10, F: Is language
+innate/special?}
+
+Based on the readings and your experience in class so far, do you think
+that language is an innate human ability? Give a few examples that argue
+for each side (language is innate and specific to humans vs.~language is
+learned and is not specific to humans) and pick one at the end. Relevant
+readings: C\&C chapters 4 and 5.
+
+\hypertarget{due-1017-g-language-developmentlanguage-in-machines}{%
+\subsection*{Due 10/17, G: Language development/language in
+machines}\label{due-1017-g-language-developmentlanguage-in-machines}}
+\addcontentsline{toc}{subsection}{Due 10/17, G: Language
+development/language in machines}
+
+Choose a few examples from the textbook of challenges that children face
+in language development. Open \href{https://chat.openai.com/}{ChatGPT}
+(requires Open AI account but is free),
+\href{https://bard.google.com/}{Bard} (access through Google but is
+free), or \href{https://www.bing.com/?scope=web\&FORM=HDRSC2}{Bing}
+(requires Microsoft account but is free). Give prompts to these AI
+language tools that match childrens' language challenges. Does the AI
+tool respond similarly to children? Give the response and explain why
+you think that the response matches or is different from children.
+Relevant readings: C\&C chapter 7 and epilogue, Sedivy chapter 2.
+
+\hypertarget{due-1024-h-second-language-acquisition}{%
+\subsection*{Due 10/24, H: second language
+acquisition}\label{due-1024-h-second-language-acquisition}}
+\addcontentsline{toc}{subsection}{Due 10/24, H: second language
+acquisition}
+
+How does one's first language facilitate and hinder second language
+acquisition? How does second language acquisition affect one's native
+language? Give at least two examples of each case (facilitate, hinder,
+affect). Relevant readings: Sedivy chapter 12.
+
+\hypertarget{section-3}{%
+\section*{Section 3}\label{section-3}}
+\addcontentsline{toc}{section}{Section 3}
+
+\markright{Section 3}
+
+\hypertarget{due-1031-i-reading}{%
+\subsection*{Due 10/31, I: Reading}\label{due-1031-i-reading}}
+\addcontentsline{toc}{subsection}{Due 10/31, I: Reading}
+
+How do digital technologies, such as e-books or online reading
+platforms, affect the way that readers interact with and process written
+texts? What are some of the advantages and disadvantages of these
+technologies? Give a few examples of how you might design digital
+reading environments to support optimal reading comprehension and
+learning. Relevant readings: Dehaene chapters.
+
+\hypertarget{due-117-j-disorders}{%
+\subsection*{Due 11/7, J: Disorders}\label{due-117-j-disorders}}
+\addcontentsline{toc}{subsection}{Due 11/7, J: Disorders}
+
+How does dyslexia affect abilities outside of reading? Does having
+dyslexia always make performance worse? Can you find an example of
+something individuals with dyslexia are better or faster at than typical
+individuals? Relevant readings: Dehaene chapters.
+
+\hypertarget{due-1114-k-language-and-culturesign-language}{%
+\subsection*{Due 11/14, K: Language and culture/sign
+language}\label{due-1114-k-language-and-culturesign-language}}
+\addcontentsline{toc}{subsection}{Due 11/14, K: Language and
+culture/sign language}
+
+How can signed language be used as a tool for promoting social justice
+and equity for deaf and hard-of-hearing communities? Discuss the
+potential impact of promoting signed language accessibility in society.
+Relevant readings: C\&C chapter 6, Sedivy chapter 13.
+
+\hypertarget{section-4}{%
+\section*{Section 4}\label{section-4}}
+\addcontentsline{toc}{section}{Section 4}
+
+\markright{Section 4}
+
+\hypertarget{due-1121-l-language-and-thoughtlanguage-in-the-brain}{%
+\subsection*{Due 11/21, L: Language and thought/language in the
+brain}\label{due-1121-l-language-and-thoughtlanguage-in-the-brain}}
+\addcontentsline{toc}{subsection}{Due 11/21, L: Language and
+thought/language in the brain}
+
+Read the short article by \href{papers/Lupyanetal2007.pdf}{Lupyan et
+al.~(2007)}. In your own words, describe the main questions tested in
+the article and what the authors found. Why do you think that labels
+help people learn faster? If you could change the design to this study
+to improve learning even more, what do you think you would do? This can
+involve manipulating the labels, the stimuli, or something else, but be
+as specific as you can. Explain why you think this would help learning.
+
+\hypertarget{due-1128-m-language-in-the-brain}{%
+\subsection*{Due 11/28, M: Language in the
+brain}\label{due-1128-m-language-in-the-brain}}
+\addcontentsline{toc}{subsection}{Due 11/28, M: Language in the brain}
+
+If you think about popular media about zombies, they vary in their motor
+skills (some are slow, others are very fast) and sensory abilities (some
+can't see, others have super hearing), but they usually don't vary in
+their language skills. Zombies don't have language. Or do they? Using
+what you know about language and the brain, why might zombies appear to
+have language deficits? Give a reasonable explanation about how zombies
+do not have the capacity for language and why this might be as well as
+how zombies may have the capacity for language, but cannot express it
+and why this might be. Relevant readings: Sedivy chapter 3.
+
+\hypertarget{due-125-n-language-in-the-brain}{%
+\subsection*{Due 12/5, N: Language in the
+brain}\label{due-125-n-language-in-the-brain}}
+\addcontentsline{toc}{subsection}{Due 12/5, N: Language in the brain}
+
+Music, like language, involves a complex set of activities and mental
+processes. Try to generate as detailed a list as you can of the various
+components that go into musical and linguistic activity, going beyond
+those discussed in the textbook. What makes someone good at music or
+language? Once you've generated your lists, identify which of the skills
+that are needed for music appear to have close analogues in language.
+Where do you think it would be most likely that you'd see crossover in
+cognitive processing? Create a proposal for how you might gather
+evidence to support your idea of connections between music and language
+skills. Relevant readings: Sedivy chapter 3.
+
+\hypertarget{final-paper-and-presentation}{%
+\chapter*{Final paper and
+presentation}\label{final-paper-and-presentation}}
+\addcontentsline{toc}{chapter}{Final paper and presentation}
+
+\markboth{Final paper and presentation}{Final paper and presentation}
+
+Forthcoming.
+
+
+
+\end{document}
