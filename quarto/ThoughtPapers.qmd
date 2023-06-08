@@ -1,0 +1,53 @@
+# Thought Papers {-}
+
+You must choose four options (one from each section) and complete those papers by the due date. Each paper should be at least one page (not including references) double spaced with 12-point font. 
+
+## Section 1
+
+### Due 9/5, A: speech perception/intro {-}
+In the Sedivy chapter, she writes about things that people say about language that are almost certainly wrong (Table 1.1). Sedivy puts both “You can learn language by watching television” and “You can’t learn language by watching television” on this list. Doing your own research online, write about the support for both claims. Do you think you can learn language by watching television? Relevant readings: Sedivy chapter 1.
+
+### Due 9/12, B: speech perception {-}
+Can speech perception be improved through training and practice? If yes, describe what might be a useful training paradigm. If no, explain why not. Relevant readings: Sedivy chapters 4 and 7.
+
+### Due 9/19, C: concepts/speech production {-}
+How do emotions and stress impact speech production? Give at least three examples of how different emotions influence speech production. Is emotional speech easier or harder to understand than neutral speech? Relevant readings: Sedivy chapters 5 and 10.
+
+### Due 9/26, D: concepts {-}
+How do our individual experiences and contexts shape our concepts? Can you think of any examples of how your own experiences or cultural background have influenced the way you understand certain concepts or categories? Relevant readings: Sedivy chapter 8.
+
+## Section 2
+
+### Due 10/3, E: sentence processing {-}
+Read the Introduction section (pages 1-2) of the [Kinreich et al. (2017)](papers/Kinreichetal2017.pdf) paper. Why do you think that couples would have more brain-to-brain synchrony than strangers? Do you think this would apply only to romantic couples? Why or why not? Why do you think our brains are capable of brain-to-brain synchrony? In other words, what is the advantage of having this ability? Relevant readings: Sedivy chapter 6 and 9.
+ 
+### Due 10/10, F: Is language innate/special? {-}
+Based on the readings and your experience in class so far, do you think that language is an innate human ability? Give a few examples that argue for each side (language is innate and specific to humans vs. language is learned and is not specific to humans) and pick one at the end. Relevant readings: C&C chapters 4 and 5. 
+
+### Due 10/17, G: Language development/language in machines {-}
+Choose a few examples from the textbook of challenges that children face in language development. Open [ChatGPT](https://chat.openai.com/) (requires Open AI account but is free), [Bard](https://bard.google.com/) (access through Google but is free), or [Bing](https://www.bing.com/?scope=web&FORM=HDRSC2) (requires Microsoft account but is free). Give prompts to these AI language tools that match childrens’ language challenges. Does the AI tool respond similarly to children? Give the response and explain why you think that the response matches or is different from children. Relevant readings: C&C chapter 7 and epilogue, Sedivy chapter 2.
+
+### Due 10/24, H: second language acquisition {-}
+How does one’s first language facilitate and hinder second language acquisition? How does second language acquisition affect one’s native language? Give at least two examples of each case (facilitate, hinder, affect). Relevant readings: Sedivy chapter 12.
+
+## Section 3
+
+### Due 10/31, I: Reading {-}
+How do digital technologies, such as e-books or online reading platforms, affect the way that readers interact with and process written texts? What are some of the advantages and disadvantages of these technologies? Give a few examples of how you might design digital reading environments to support optimal reading comprehension and learning. Relevant readings: Dehaene chapters.
+
+### Due 11/7, J: Disorders {-}
+How does dyslexia affect abilities outside of reading? Does having dyslexia always make performance worse? Can you find an example of something individuals with dyslexia are better or faster at than typical individuals? Relevant readings: Dehaene chapters.
+
+### Due 11/14, K: Language and culture/sign language {-}
+How can signed language be used as a tool for promoting social justice and equity for deaf and hard-of-hearing communities? Discuss the potential impact of promoting signed language accessibility in society. Relevant readings: C&C chapter 6, Sedivy chapter 13. 
+
+## Section 4
+
+### Due 11/21, L: Language and thought/language in the brain {-}
+Read the short article by [Lupyan et al. (2007)](papers/Lupyanetal2007.pdf). In your own words, describe the main questions tested in the article and what the authors found. Why do you think that labels help people learn faster? If you could change the design to this study to improve learning even more, what do you think you would do? This can involve manipulating the labels, the stimuli, or something else, but be as specific as you can. Explain why you think this would help learning. 
+
+### Due 11/28, M: Language in the brain {-}
+If you think about popular media about zombies, they vary in their motor skills (some are slow, others are very fast) and sensory abilities (some can’t see, others have super hearing), but they usually don’t vary in their language skills. Zombies don’t have language. Or do they? Using what you know about language and the brain, why might zombies appear to have language deficits? Give a reasonable explanation about how zombies do not have the capacity for language and why this might be as well as how zombies may have the capacity for language, but cannot express it and why this might be. Relevant readings: Sedivy chapter 3.
+
+### Due 12/5, N: Language in the brain {-}
+Music, like language, involves a complex set of activities and mental processes. Try to generate as detailed a list as you can of the various components that go into musical and linguistic activity, going beyond those discussed in the textbook. What makes someone good at music or language? Once you’ve generated your lists, identify which of the skills that are needed for music appear to have close analogues in language. Where do you think it would be most likely that you’d see crossover in cognitive processing? Create a proposal for how you might gather evidence to support your idea of connections between music and language skills. Relevant readings: Sedivy chapter 3.

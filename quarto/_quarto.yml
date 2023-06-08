@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Psychology of Language"
+  author: "Casey L. Roark"
+  date: "6/8/2023"
+  chapters:
+    - index.qmd
+    - 00-CourseSchedule.qmd
+    - part: "Assignments"
+      chapters:
+        - LabReports.qmd
+        - ThoughtPapers.qmd
+        - FinalPaperPresentation.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

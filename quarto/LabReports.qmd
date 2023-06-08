@@ -1,0 +1,48 @@
+# Lab Reports {-}
+
+Over the course of the semester, you will complete three lab reports. For each lab report, you will participate in online example experiments of the Psychology of Language outside of class time. You may complete these experiments using computer labs or your own computer. For each assigned experiment, you are expected to read the accompanying article (available on Canvas) to be able to describe the methodology, hypotheses, and outcomes. Be sure to read the article after participating in the experiment!
+
+## Lab Report Format {-}
+Your lab report should provide the following pieces of information:
+
+1.	Name of the lab and the date of your participation.
+2.	Write a description of what you did during the experiment.
+3.	Identify and explain how the independent variable(s) was/were manipulated.
+4.	Identify and explain how the dependent variable(s) was/were measured. 
+5.	State the experimental hypothesis.
+6.	State the outcomes of the experiment.
+7.	Describe whether you think your data are consistent with the outcomes of the experiment. Why or why not?
+8.	Suggest future directions, such as how the experiment might be modified to improve the investigation or examine effects in other populations. 
+9.	Write the APA-formatted citation of the accompanying article. 
+
+Write clearly, concisely, and with complete sentences. You should complete the lab reports on your own. You should submit your lab reports to Canvas via the assignment links on or before the due date/time to receive full credit. 
+
+An example lab report can be found [here](SampleLabReport.pdf).
+
+## Lab Report Grading Rubric {-}
+| Criteria |	Great Job |	Needs Work |
+| --- | --- | --- |
+| 1. Name and date | Provides accurate information (1 point) | Missing or inaccurate (0 points) |
+| 2. Description	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| 3. Independent variables	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| 4. Dependent variables	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| 5. Experimental hypothesis	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| 6. Outcomes	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| 7. Your data	| Provides clear description and specifically discusses relation between your experience and the outcomes written in the article (1 point) | Missing, unclear, or does not discuss relation between your experience and the outcomes written in the article (0 points) |
+| 8. Future directions	| Provides unique future direction (1 point) |	Does not provide unique future direction (0 points) |
+| 9. APA-formatted citation	| Provides accurate APA citation (1 point) | Does not provide accurate APA citation (0 points) |
+| Due date |	Submitted on time (1 point)	| Submitted late (0 points) |
+
+## Lab Reports this Semester {-}
+
+### Th 9/21, Audio-visual speech in noise (10-15 min) {-}
+- [Link to experiment](https://research.sc/participant/login/dynamic/BB2C8E1A-D299-4456-AEB0-6BEB59C7FFF5)
+- Article: Karas et al. (2019)
+
+### Th 9/28, Sentence prediction (5 min) {-}
+- [Link to experiment](https://research.sc/participant/login/dynamic/6824FDBF-4409-4B02-AE9E-10BA428B1D61)
+- Article: Gambi et al. (2021)
+
+### Th 10/26, Learning new words through reading (15-20 min)	{-}
+- [Link to experiment](https://research.sc/participant/login/dynamic/B3E7A61D-6F92-4B3A-B80A-8D8513D01C6B)
+- Article: Hulme et al. (2022)
