@@ -80,6 +80,22 @@
 
 \KOMAoption{captions}{tableheading}
 \makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\definecolor{quarto-callout-color}{HTML}{909090}
+\definecolor{quarto-callout-note-color}{HTML}{0758E5}
+\definecolor{quarto-callout-important-color}{HTML}{CC1914}
+\definecolor{quarto-callout-warning-color}{HTML}{EB9113}
+\definecolor{quarto-callout-tip-color}{HTML}{00A047}
+\definecolor{quarto-callout-caution-color}{HTML}{FC5300}
+\definecolor{quarto-callout-color-frame}{HTML}{acacac}
+\definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+\definecolor{quarto-callout-important-color-frame}{HTML}{d9534f}
+\definecolor{quarto-callout-warning-color-frame}{HTML}{f0ad4e}
+\definecolor{quarto-callout-tip-color-frame}{HTML}{02b875}
+\definecolor{quarto-callout-caution-color-frame}{HTML}{fd7e14}
+\makeatother
+\makeatletter
 \makeatother
 \makeatletter
 \@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
@@ -158,7 +174,7 @@
 
 \begin{document}
 \maketitle
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[frame hidden, sharp corners, boxrule=0pt, borderline west={3pt}{0pt}{shadecolor}, breakable, interior hidden, enhanced]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[sharp corners, interior hidden, enhanced, borderline west={3pt}{0pt}{shadecolor}, breakable, frame hidden, boxrule=0pt]}{\end{tcolorbox}}\fi
 
 \renewcommand*\contentsname{Table of contents}
 {
@@ -182,12 +198,12 @@
 
 \end{figure}
 
-\hypertarget{learn-about-the-cognitive-and-neural-basis-of-our-remarkable-abilities-to-communicate}{%
+\hypertarget{learn-about-the-cognitive-and-neural-basis-of-our-remarkable-ability-to-communicate}{%
 \subsubsection*{Learn about the cognitive and neural basis of our
-remarkable abilities to
-communicate}\label{learn-about-the-cognitive-and-neural-basis-of-our-remarkable-abilities-to-communicate}}
+remarkable ability to
+communicate}\label{learn-about-the-cognitive-and-neural-basis-of-our-remarkable-ability-to-communicate}}
 \addcontentsline{toc}{subsubsection}{Learn about the cognitive and
-neural basis of our remarkable abilities to communicate}
+neural basis of our remarkable ability to communicate}
 
 ~
 
@@ -307,6 +323,13 @@ so if I don't respond right away, don't worry!
 \item
   \faIcon{location-dot} ~ HORT 215
 \end{itemize}
+
+\begin{tcolorbox}[enhanced jigsaw, coltitle=black, colbacktitle=quarto-callout-note-color!10!white, arc=.35mm, left=2mm, bottomtitle=1mm, leftrule=.75mm, opacitybacktitle=0.6, bottomrule=.15mm, titlerule=0mm, opacityback=0, toprule=.15mm, colback=white, rightrule=.15mm, colframe=quarto-callout-note-color-frame, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, toptitle=1mm]
+
+This syllabus is subject to change. Students will be promptly notified
+of any changes.
+
+\end{tcolorbox}
 
 \hypertarget{course-overview}{%
 \section*{Course Overview}\label{course-overview}}
@@ -442,13 +465,41 @@ Final Paper & 15\% & There will be a final paper along with the
 presentation in the final weeks of the semester. \\
 \end{longtable}
 
-\hypertarget{technical-requirements-and-technical-support}{%
-\section*{Technical Requirements and Technical
-Support}\label{technical-requirements-and-technical-support}}
-\addcontentsline{toc}{section}{Technical Requirements and Technical
-Support}
+\hypertarget{course-policies}{%
+\section*{Course Policies}\label{course-policies}}
+\addcontentsline{toc}{section}{Course Policies}
 
-\markright{Technical Requirements and Technical Support}
+\markright{Course Policies}
+
+\hypertarget{office-hours}{%
+\subsection*{Office hours}\label{office-hours}}
+\addcontentsline{toc}{subsection}{Office hours}
+
+Please watch this video on common misconceptions about office hours:
+
+\url{https://vimeo.com/270014784?embedded=true\&source=vimeo_logo\&owner=2248721}
+
+Office hours are set times dedicated to all of you. This means that I
+will be in my office waiting for you to come by and talk to me with
+whatever questions you have. This is the best and easiest way to find me
+and the best chance for discussing class material and concerns. If you
+are not available during my regularly scheduled office hours, please
+email me to schedule a different time to meet.
+
+\hypertarget{late-work}{%
+\subsection*{Late work}\label{late-work}}
+\addcontentsline{toc}{subsection}{Late work}
+
+I would \textbf{highly recommend} staying caught up as much as possible,
+but if you need to turn something in late, that's fine, just please let
+me know. Specific policies for late assignments are listed for
+individual assignments.
+
+\hypertarget{technical-requirements-and-technical-support}{%
+\subsection*{Technical Requirements and Technical
+Support}\label{technical-requirements-and-technical-support}}
+\addcontentsline{toc}{subsection}{Technical Requirements and Technical
+Support}
 
 See \href{https://online.unh.edu/technical-requirements}{website
 listings} for current recommendations and requirements related to this
@@ -457,11 +508,9 @@ an \href{https://itsupport.unh.edu/onlinelearning/}{online support
 form}.
 
 \hypertarget{university-disability-accommodations}{%
-\section*{University Disability
+\subsection*{University Disability
 Accommodations}\label{university-disability-accommodations}}
-\addcontentsline{toc}{section}{University Disability Accommodations}
-
-\markright{University Disability Accommodations}
+\addcontentsline{toc}{subsection}{University Disability Accommodations}
 
 The University is committed to providing students with documented
 disabilities equal access to all university programs and facilities. If
@@ -473,10 +522,8 @@ Please provide me with that information privately so that we can review
 those accommodations.
 
 \hypertarget{academic-honesty}{%
-\section*{Academic Honesty}\label{academic-honesty}}
-\addcontentsline{toc}{section}{Academic Honesty}
-
-\markright{Academic Honesty}
+\subsection*{Academic Honesty}\label{academic-honesty}}
+\addcontentsline{toc}{subsection}{Academic Honesty}
 
 Students are required to abide by the UNH Academic Honesty policy
 located in the \href{https://catalog.unh.edu/srrr/}{Student Rights,
@@ -494,14 +541,85 @@ issue. Additional resources can be found through the
 \href{http://libraryguides.unh.edu/unhmcitingsources}{library guides on
 citing sources}.
 
-\hypertarget{note}{%
-\section*{Note}\label{note}}
-\addcontentsline{toc}{section}{Note}
+\hypertarget{expectations}{%
+\subsection*{Expectations}\label{expectations}}
+\addcontentsline{toc}{subsection}{Expectations}
 
-\markright{Note}
+The following guidelines will create a comfortable and productive
+learning environment throughout the semester.
 
-This syllabus is subject to change. Students will be promptly notified
-of any changes.
+You can expect Professor Roark to: - Respect you as individuals - Give
+timely feedback - Assign work that meets the learning objectives of the
+course - Adhere to the time expectations for a X unit course - Give
+assessments that accurately reflect the material covered in class -
+Provide clear and timely expectations for course requirements - Reply to
+e-mails within 24-48 hours on weekdays
+
+I expect you to: - Be attentive and engaged - Come to class ready to
+participate (having done the readings) - Adhere to the highest level of
+academic integrity - Spend an adequate amount of time studying course
+materials each week so you can identify where you need clarification
+early in the learning process - Seek help when appropriate - Communicate
+with your instructor about challenges
+
+\hypertarget{general-well-being-and-stress}{%
+\subsection*{General well-being and
+stress}\label{general-well-being-and-stress}}
+\addcontentsline{toc}{subsection}{General well-being and stress}
+
+Do your best to follow guidelines to keep physically healthy. Do your
+best to maintain a healthy lifestyle this semester by eating well,
+exercising, avoiding drugs and alcohol, getting enough sleep and taking
+some time to relax. This will help you achieve your goals and cope with
+stress.
+
+All of us benefit from support during times of struggle. You are not
+alone. There are many helpful resources available on campus and an
+important part of the college experience is learning how to ask for
+help. Asking for support sooner rather than later is often helpful. It
+is courageous to reach out for help.
+
+If you or anyone you know experiences any academic stress, difficult
+life events, or feelings like anxiety or depression, we strongly
+encourage you to seek support.
+\href{https://www.unh.edu/pacs/}{Psychological and Counseling Services
+(PACS)} is here to help, (603) 862-2090. Consider reaching out to a
+friend, faculty or family member you trust for help getting connected to
+the support that can help. Your instructor can point you to resources.
+
+If you or someone you know is feeling suicidal or in danger of
+self-harm, call someone immediately, day or night you can contact Rapid
+Response Access Point at 833-710-6477 or visi NH988.com. If the
+situation is life threatening, call the police. (UNH Police: (603)
+862-1427; Off campus: 911).
+
+If you or someone you know is experiencing food insecurity -- worry
+about affording food -- there are campus resources to help. Fill out a
+\href{https://cm.maxient.com/reportingform.php?UnivofNH\&layout_id=15}{Swipe
+it Forward request form} or visit the Cats' Cupboard in the MUB 140A.
+See this
+\href{https://www.unh.edu/dean-of-students/getting-help/housing-food-financial-basic-needs-support}{website}
+for more Basic Needs Support and Resources.
+
+\hypertarget{laurens-promise}{%
+\subsection*{\texorpdfstring{\href{https://laurenmccluskey.org/laurens-promise/}{Lauren's
+Promise}}{Lauren's Promise}}\label{laurens-promise}}
+\addcontentsline{toc}{subsection}{\href{https://laurenmccluskey.org/laurens-promise/}{Lauren's
+Promise}}
+
+I will listen and believe you if someone is threatening you.
+
+Lauren McCluskey, a 21-year-old honors student athlete,
+\href{https://www.sltrib.com/opinion/commentary/2019/02/10/commentary-failing-lauren/}{was
+murdered on October 22, 2018 by a man she briefly dated on the
+University of Utah campus}. We must all take action to ensure that this
+never happens again.
+
+If you are in immediate danger, call 911 or UNH police ((603) 862-1427).
+
+If you are experiencing sexual assault, domestic violence, or stalking,
+please report it to me and I will connect you to resources or call UNH's
+Psychological and Counseling Services ((603) 862-2090).
 
 \bookmarksetup{startatroot}
 

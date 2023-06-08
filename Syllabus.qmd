@@ -25,6 +25,10 @@
 :::
 :::
 
+::: {.callout-note}
+This syllabus is subject to change. Students will be promptly notified of any changes.
+:::
+
 ## Course Overview {-}
 
 Psychology of Language explores the cognitive and neural bases of human
@@ -80,18 +84,70 @@ course is organized by class meetings. You will be able to find external reading
 | Final Presentation                              | 15%               | There will be a final presentation in the final weeks of the semester.                                                                                                                                                                                                                                                                                           |
 | Final Paper                                     | 15%               | There will be a final paper along with the presentation in the final weeks of the semester.                                                                                                                                                                                                                                                                      |
 
+## Course Policies
 
-## Technical Requirements and Technical Support {-}
+### Office hours
+Please watch this video on common misconceptions about office hours:
+
+{{< video https://vimeo.com/270014784?embedded=true&source=vimeo_logo&owner=2248721 >}}
+
+Office hours are set times dedicated to all of you. This means that I will be in my office waiting for you to come by and talk to me with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns. If you are not available during my regularly scheduled office hours, please email me to schedule a different time to meet. 
+
+### Late work
+I would **highly recommend** staying caught up as much as possible, but if you need to turn something in late, that’s fine, just please let me know. Specific policies for late assignments are listed for individual assignments.
+
+### Technical Requirements and Technical Support {-}
 See [website listings](https://online.unh.edu/technical-requirements) for current recommendations and requirements related to this course. For technical assistance please call (603) 862-4242 or fill out an [online support form](https://itsupport.unh.edu/onlinelearning/).
 
-## University Disability Accommodations {-}
+### University Disability Accommodations {-}
 The University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you must register with [Student Accessibility Services (SAS)](http://www.unh.edu/studentaccessibility) or directly contact SAS at (603) 862-2607.  
 Please provide me with that information privately so that we can review those accommodations.
 
-## Academic Honesty {-}
+### Academic Honesty {-}
 Students are required to abide by the UNH Academic Honesty policy located in the [Student Rights, Rules, and Responsibilities Handbook](https://catalog.unh.edu/srrr/).   
  
 Plagiarism of any type may be grounds for receiving an “F” in an assignment or an “F” in the overall course.  Plagiarism is defined as “the unattributed use of the ideas, evidence, or words of another person, or the conveying the false impression that the arguments and writing in a paper are your own.” (UNH Academic Honesty Policy, 09.3) Incidents are reported to the school dean and may be grounds for further action.  If you have questions about proper citation refer to your department’s writing guidelines.  You can contact me at any time on this issue. Additional resources can be found through the [library guides on citing sources](http://libraryguides.unh.edu/unhmcitingsources).
 
-## Note {-}
-This syllabus is subject to change. Students will be promptly notified of any changes.
+### Expectations {-}
+
+The following guidelines will create a comfortable and productive learning environment throughout the semester.
+
+You can expect Professor Roark to: 
+- Respect you as individuals
+- Give timely feedback
+- Assign work that meets the learning objectives of the course
+- Adhere to the time expectations for a X unit course
+- Give assessments that accurately reflect the material covered in class
+- Provide clear and timely expectations for course requirements
+- Reply to e-mails within 24-48 hours on weekdays
+
+I expect you to: 
+- Be attentive and engaged
+- Come to class ready to participate (having done the readings)
+- Adhere to the highest level of academic integrity
+- Spend an adequate amount of time studying course materials each week so you can identify where you need clarification early in the learning process
+- Seek help when appropriate
+- Communicate with your instructor about challenges
+
+### General well-being and stress
+
+Do your best to follow guidelines to keep physically healthy. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.
+
+All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful. It is courageous to reach out for help.
+
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. [Psychological and Counseling Services (PACS)](https://www.unh.edu/pacs/) is here to help, (603) 862-2090. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help. Your instructor can point you to resources.
+
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night you can contact Rapid Response Access Point at 833-710-6477 or visi NH988.com. If the situation is life threatening, call the police. (UNH Police: (603) 862-1427; Off campus: 911).
+
+If you or someone you know is experiencing food insecurity -- worry about affording food -- there are campus resources to help. Fill out a [Swipe it Forward request form](https://cm.maxient.com/reportingform.php?UnivofNH&layout_id=15) or visit the Cats' Cupboard in the MUB 140A. See this [website](https://www.unh.edu/dean-of-students/getting-help/housing-food-financial-basic-needs-support) for more Basic Needs Support and Resources. 
+
+### [Lauren's Promise](https://laurenmccluskey.org/laurens-promise/) 
+
+I will listen and believe you if someone is threatening you.
+
+Lauren McCluskey, a 21-year-old honors student athlete, [was murdered on October 22, 2018 by a man she briefly dated on the University of Utah campus](https://www.sltrib.com/opinion/commentary/2019/02/10/commentary-failing-lauren/). We must all take action to ensure that this never happens again.
+
+If you are in immediate danger, call 911 or UNH police ((603) 862-1427).
+
+If you are experiencing sexual assault, domestic violence, or stalking, please report it to me and I will connect you to resources or call UNH’s Psychological and Counseling Services ((603) 862-2090).
+

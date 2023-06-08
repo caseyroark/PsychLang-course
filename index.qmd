@@ -2,7 +2,7 @@
 
 ![](images/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg){style="float:right;" fig-alt="Illustration of three species of Palmer Archipelago penguins: Chinstrap, Gentoo, and Adelie. Artwork by @allison_horst." width="390"}
 
-#### Learn about the cognitive and neural basis of our remarkable abilities to communicate
+#### Learn about the cognitive and neural basis of our remarkable ability to communicate
 
  
 
@@ -39,7 +39,7 @@
 
 
 
-::: {.g-col-4 .g-col-md-4 .contact-policy}
+::: {.g-col-4  .g-col-md-4 .contact-policy}
 ### Contacting me
 
 E-mail is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours (really), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!
