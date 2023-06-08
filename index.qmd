@@ -1,91 +1,52 @@
-# Syllabus {-}
+# Welcome! {.unnumbered}
 
-## Course information {-}
+![](images/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg){style="float:right;" fig-alt="Illustration of three species of Palmer Archipelago penguins: Chinstrap, Gentoo, and Adelie. Artwork by @allison_horst." width="390"}
 
-Course: PSYC 712W -- Psychology of Language 
+#### Learn about the cognitive and neural basis of our remarkable abilities to communicate
 
-Pre-requisites: PSYC 402; PSYC 502; PSYC 512; or PSYC 513; or permission
+ 
 
-Instructor: Prof. Casey L. Roark, PhD 
+##### [PSYC 712W - Fall 2023]{style="color: gray"}
 
-Email: [casey.roark\@unh.edu](mailto:casey.roark@unh.edu){.email} 
+##### [Department of Psychology]{style="color: gray"}
 
-Class: Tuesday & Thursday 2:10-3:30 pm HORT 215 
+##### [University of New Hampshire]{style="color: gray"}
 
-Office hours: Wednesday 1-3 pm in 440 McConnell Hall
-
-## Course Overview {-}
-
-Psychology of Language explores the cognitive and neural bases of human
-language. We use language in our everyday lives mostly effortlessly and
-without thinking. But underneath it all, language is extraordinarily
-complex. In this course, through lectures, reading, writing, and
-discussion, we will explore some of the feats and challenges of human
-language including (but not limited to): 
-
-- Components of language such as speech perception, speech production, reading, writing 
-- Whether language is a uniquely human and innate ability 
-- How children develop the ability to speak and understand language 
-- How language functions in the brain 
-- The relationship between language and thought 
-- What happens when language does not function typically
-
-## Course materials (required) {-}
-
--   Christiansen, M. H. & Chater, N. (2022). The Language Game: How
-    improvisation created language and changed the world. Basic Books.
--   Sedivy, J. (2014). Language in Mind: An introduction to
-    psycholinguistics. Second edition. Oxford University Press.
--   Other PDFs will be provided on the course website.
-
-## Course Description {-}
-
-Theories of language structure, functions of human language, meaning,
-relationship of language to other mental processes, language
-acquisition, indices of language development, speech perception,
-reading.
-
-## Course Learning Objectives {-}
-
-Upon completion of this course students will
-
--   
-
--   
-
-## Course Structure {-}
-
-myCourses is the learning management tool we use for this course. The
-course is organized by class meetings.
-
-## Grades {-}
-
-| Item                                            | \% of final grade | Requirements                                                                                                                                                                                                                                                                                                                                                     |
-|---------------|-------|------------------------|
-| Quizzes                                         | 15%               | There are 5 quizzes for this course, which are scheduled on the course calendar. Each quiz is worth 3% of the final grade (5 quizzes x 3% = 15% total)                                                                                                                                                                                                           |
-| Class Attendance, Participation, and Discussion | 20%               | Attending and participating in class are important parts of this course. Attendance will be taken in each class period. Participation will be assessed for each class period and students will be given multiple options for participation over the course of the semester (e.g., group discussion, pair discussion, self-reflection, in class activities, etc.) |
-| Thought Papers                                  | 20%               | There are four required thought papers for this course. Each week will come with the opportunity to complete a thought paper and students are expected to complete at least four over the course of the semester. Each paper will be worth 5% of the final grade (4 papers x 5% = 20% total)                                                                     |
-| Lab Reports                                     | 15%               | Students will be required to complete three lab reports during the semester. Each lab report will be worth 5% of the final grade (3 lab reports x 5% = 15% total)                                                                                                                                                                                                |
-| Final Presentation                              | 15%               | There will be a final presentation in the final weeks of the semester.                                                                                                                                                                                                                                                                                           |
-| Final Paper                                     | 15%               | There will be a final paper along with the presentation in the final weeks of the semester.                                                                                                                                                                                                                                                                      |
+ 
 
 
-## Technical Requirements and Technical Support {-}
-See [website listings](https://online.unh.edu/technical-requirements) for current recommendations and requirements related to this course - 
 
-For technical assistance please call (603) 862-4242 or fill out an [online support form](https://itsupport.unh.edu/onlinelearning/)
+::: home
+::: {.grid .course-details}
+::: {.g-col-4 .g-col-sm-6 .g-col-md-4}
+### Instructor
 
-## University Disability Accommodations {-}
-The University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you must register with Student Accessibility Services (SAS) http://www.unh.edu/studentaccessibility or directly contact SAS at (603) 862-2607.  
-Please provide me with that information privately so that we can review those accommodations.
+-   {{< fa user >}}   [Dr. Casey L. Roark](www.roarklab.com)
+-   {{< fa university >}}   440 McConnell Hall
+-   {{< fa envelope >}}   [casey.roark\@unh.edu](mailto:casey.roark@unh.edu)
+-   {{< fa brands twitter >}}   [caseyroark](https://www.twitter.com/caseyroark)
+-   {{< fa calendar-check >}}   Wednesday 1-3 pm or by appointment
+:::
 
-## Academic Honesty {-}
-Students are required to abide by the UNH Academic Honesty policy located in the Student Rights, Rules, and Responsibilities Handbook.   
- 
-Plagiarism of any type may be grounds for receiving an “F” in an assignment or an “F” in the overall course.  Plagiarism is defined as “the unattributed use of the ideas, evidence, or words of another person, or the conveying the false impression that the arguments and writing in a paper are your own.” (UNH Academic Honesty Policy, 09.3) Incidents are reported to the school dean and may be grounds for further action.  If you have questions about proper citation refer to your department’s writing guidelines.  You can contact me at any time on this issue. Additional resources are located below:
+::: {.g-col-4 .g-col-sm-6 .g-col-md-4}
+### Course details
 
-- http://libraryguides.unh.edu/unhmcitingsources 
-- http://www.library.unh.edu/reference/citation.shtml
+-   {{< fa calendar >}}   Tuesday and Thursday
+-   {{< fa calendar-alt >}}   Fall 2023
+-   {{< fa clock >}}   2:10-3:30 pm
+-   {{< fa location-dot >}}   HORT 215
+:::
 
-## Note {-}
-This syllabus is subject to change. Students will be promptly notified of any changes.
+
+
+::: {.g-col-4 .g-col-md-4 .contact-policy}
+### Contacting me
+
+E-mail is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours (really), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!
+
+
+:::
+:::
+
+:::
+
