@@ -39,7 +39,7 @@ An example lab report can be found [here](SampleLabReport.pdf).
 - [Link to experiment](https://research.sc/participant/login/dynamic/BB2C8E1A-D299-4456-AEB0-6BEB59C7FFF5)
 - Article: Karas et al. (2019)
 
-### Th 9/28, Sentence prediction (5 min) {-}
+### Th 10/10, Sentence prediction (5 min) {-}
 - [Link to experiment](https://research.sc/participant/login/dynamic/6824FDBF-4409-4B02-AE9E-10BA428B1D61)
 - Article: Gambi et al. (2021)
 

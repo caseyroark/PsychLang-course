@@ -21,7 +21,7 @@
 ::: {.g-col-4 .g-col-sm-6 .g-col-md-4}
 ### Instructor
 
--   {{< fa user >}}   [Dr. Casey L. Roark](www.roarklab.com)
+-   {{< fa user >}}   [Dr. Casey L. Roark](https://www.roarklab.com)
 -   {{< fa university >}}   440 McConnell Hall
 -   {{< fa envelope >}}   [casey.roark\@unh.edu](mailto:casey.roark@unh.edu)
 -   {{< fa brands twitter >}}   [caseyroark](https://www.twitter.com/caseyroark)
