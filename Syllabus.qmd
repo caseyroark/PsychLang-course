@@ -71,11 +71,11 @@ The goal in this course is to teach you the skills and concepts needed to pose q
 - to formulate a question about language in a way that can be tested empirically
 - to communicate research findings and your thoughts orally and in writing
 - to participate in experimental research and evaluate research findings 
- - to employ critical thinking in evaluating scientific claims
+- to employ critical thinking in evaluating scientific claims
  
 ## Course Structure {-}
 
-[myCourses](https://my.unh.edu/canvas) is the learning management tool we use for this course. The
+[myCourses](https://mycourses.unh.edu/courses) is the learning management tool we use for this course. The
 course is organized by class meetings. You will be able to find external readings and submit assignments. Please do not message me through myCourses -- email me instead.
 
 ## Grades {-}
