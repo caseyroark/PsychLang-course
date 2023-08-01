@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.1)  1 AUG 2023 14:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.1)  1 AUG 2023 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1131,45 +1131,41 @@ No file index.toc.
 ]
 File: images/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg Graphic file (type bmp)
 <images/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg>
-
-Overfull \hbox (10.89192pt too wide) in paragraph at lines 193--194
-[] 
- []
-
-[3
-
-] (/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
+(/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonstandard glyph set (RS)
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 233.
+(Font)              scaled to size 7.665pt on input line 239.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 233.
+(Font)              scaled to size 5.475pt on input line 239.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 233.
+(Font)              scaled to size 10.95099pt on input line 239.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 233.
+(Font)              scaled to size 7.66568pt on input line 239.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 233.
+(Font)              scaled to size 5.4755pt on input line 239.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 233.
+(Font)              scaled to size 10.94882pt on input line 239.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 233.
+(Font)              scaled to size 7.66417pt on input line 239.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 233.
+(Font)              scaled to size 5.47441pt on input line 239.
+[3
+
+]
 
 ! Package fontawesome5 Error: The requested icon location-dot was not found.
 
 For immediate help type H <return>.
  ...                                              
                                                   
-l.254   \faIcon{location-dot}
+l.260   \faIcon{location-dot}
                               ~ HORT 215 
 Here is how much of TeX's memory you used:
- 38383 strings out of 477869
- 787477 string characters out of 5821768
- 1911875 words of memory out of 5000000
- 58746 multiletter control sequences out of 15000+600000
+ 38388 strings out of 477869
+ 787594 string characters out of 5821768
+ 1913875 words of memory out of 5000000
+ 58751 multiletter control sequences out of 15000+600000
  564492 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,7n,120p,10900b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
