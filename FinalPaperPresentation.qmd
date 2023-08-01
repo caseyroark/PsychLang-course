@@ -1,23 +1,58 @@
 # Final paper and presentation {-}
 
-The goal of the final paper and presentation is for you to think deeply about how we use experimental methods to answer questions about the psychology of language. You will write a paper and give a presentation that outlines a research proposal for a new experimental study about the psychology of language. 
+The goal of the final paper and presentation is for you to think deeply about how we use experimental methods to answer questions about the psychology of language. You will write a paper and give a presentation that outlines a research proposal for a new experimental study about the psychology of language. You are welcome to design a follow up study to one of the studies we read about in class or choose a different topic that interests you. 
 
-There are four parts of this assignment: 
+There are five milestones for this assignment: 
 
-1. By 10/19, submit a short proposal (~1/2 a page) of a specific research question you will explore in the final paper and presentation. The proposal should detail some questions that you are interested in investigating. It should also include at least two empirical papers (outside of course materials) that you plan to read. I highly suggest you spend some time before this deadline beginning to think about this project so I can give you specific feedback and get you on the right track from the beginning.
+1. **By 10/19 at 2:10PM**, submit a short proposal (1/2-1 page) of a specific research question you will explore in the final paper and presentation. The proposal should detail some questions that you are interested in investigating. It should also include at least two empirical papers (outside of course materials) that you plan to read. I highly suggest you spend some time before this deadline beginning to think about this project so I can give you specific feedback and get you on the right track from the beginning. You can submit one or two ideas for feedback.
 
-2. By 11/16, complete a detailed outline or rough draft (~3-6 pages) of the final paper that will be peer-reviewed by a classmate and reviewed by me. This outline/draft should include the research question and any sub-questions, a detailed overview of the experimental method that you would use to answer the research question, anticipated/hypothesized results. You should cite at least five empirical sources (outside of course materials). 
+2. **By 11/15 at 9PM**, complete a detailed outline or rough draft (~3-6 pages) of the final paper that will be peer-reviewed by a classmate and reviewed by me. This outline/draft should include the research question and any sub-questions, a detailed overview of the experimental method that you would use to answer the research question, anticipated/hypothesized results. You should cite at least five empirical sources (outside of course materials). 
 
-3. By 11/30 (Th 11/30, T 12/5, Th 12/6), you should prepare a 5-7 minute presentation about your proposed project. You should include an introduction that lays out the purpose/question of the planned experiment, the method of the planned experiment, and the anticipated/hypothesized results. You should be prepared to answer questions about your presentation. 
+3. **By 11/16 at 9PM** (especially during the class period on 11/16), peer-edit the assigned paper. Read the draft using track changes in Microsoft Word to make any suggestions or comments. Write down any question you have -- were any parts confusing? Write down parts that you liked. It is possible that these edits will not be anonymized, so keep that in mind. Submit the edited draft to Canvas.
 
-4. By **TBD final date**, you should submit a final draft of the paper, incorporating feedback from the outline/draft. The paper should be at least 1500 words long (~ 6 double spaced pages in 12 pt font). You are welcome to design a follow up study to one of the studies we read about in class or choose a different topic that interests you. The paper should be in APA format. 
+4. **By 11/30** (Th 11/30, T 12/5, Th 12/7), you should prepare a 5-7 minute presentation about your proposed project. You should include an introduction that lays out the purpose/question of the planned experiment, the method of the planned experiment, and the anticipated/hypothesized results. You should be prepared to answer questions about your presentation. 
+
+5. By **TBD final date**, you should submit a final draft of the paper, incorporating feedback from the outline/draft. The paper should be at least 1500 words long (~ 6 double spaced pages in 12 pt font, not including references or title page). The paper should be in APA format. 
 
 The paper should have the following parts:
 
-- Abstract
+- Title (on its own page)
+- Abstract (on same pages as other sections below)
 - Background and significance
 - Proposed experiment(s)
   - Hypothesis/hypotheses
   - Experimental design
   - Possible anticipated/hypothesized results
   - Limitations
+- References
+
+## Final Paper Grading Rubric {-}
+| Criteria |	Great Job |	Needs Work |
+| --- | ------ | --- |
+| Proposal | Submitted on time (1 point) | Submitted late (0 points) |
+| Outline/Rough Draft | Submitted on time (1 point) | Submitted late (0 points) |
+| Peer-edited Draft | Submitted on time (3 points) | Submitted late (0 points) |
+| Final Draft | Submitted on time (1 points) | Submitted late (0 points) | 
+| Title Page | Present in APA format (1 point) | Missing or inaccurate (0 points) |
+| Abstract | 150-250 words that clearly describes importance of topic (1 point), introduces proposed experiment (1 point), gives basic experimental design information (1 point), provides summary of anticipated results (1 point), and big-picture conclusion about topic (1 point) | Missing elements (-1 point for each) | 
+| Background and significance | At least five paragraphs (1 point) that introduces topic (2 points), reviews at least 5 articles from the literature (5 points), and provides context for topic and hypothesis (2 points) | Missing or unclear elements (-1 point for each) |
+| Proposed experiment | Gives detailed description of hypothesis (1 point), experimental design (2 points), anticipated results (2 points), and limitations (1 point) | Missing or unclear elements (-1 point for each) |
+| References | APA formatted reference list of all in-text citations (1 point) | Missing or inaccurate (0 points) |
+| Length and formatting | 1500 words, 6 pages (without title page or references), double spaced in 12 point font (1 point) | Less than required (0 points) | 
+
+
+
+## Final Presentation Grading Rubric {-}
+| Criteria |	Great Job |	Needs Work |
+| --- | ------ | --- |
+| Due date |	Present on assigned date (5 points)	| Present late (0 points) |
+| Timing | 5-7 minutes (5 points) | Under 5 minutes or over 7 minutes (-# points depending on how much) |
+| Introduce topic | Provides clear and accurate description (5 points) | Missing, unclear, or inaccurate (-# points depending on how much) |
+| Experimental method | Provides clear and accurate description of experimental methods including explicit definition of independent variables (1 point), dependent variables (1 point), experimental hypothesis (2 point), and an example from the task (2 points) | Missing, unclear, or inaccurate (-1 or 2 for each) |
+| Anticipated results | Provides clear and logical description of anticipated results (with clear dependent variable units: 2 points) and how this relates to experimental hypothesis (2 point), as well as at least one alternative hypothesis (1 point) | Missing or unclear (-1 or 2 for each) |
+| Limitations and future directions | Provides at least one limitation of the experimental design (2 points) and one future direction (2 points) | Missing or unclear (-2 for each) | 
+
+
+
+
+

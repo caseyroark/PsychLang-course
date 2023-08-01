@@ -22,15 +22,15 @@ An example lab report can be found [here](SampleLabReport.pdf).
 ## Lab Report Grading Rubric {-}
 | Criteria |	Great Job |	Needs Work |
 | --- | --- | --- |
-| 1. Name and date | Provides accurate information (1 point) | Missing or inaccurate (0 points) |
-| 2. Description	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
-| 3. Independent variables	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
-| 4. Dependent variables	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
-| 5. Experimental hypothesis	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
-| 6. Outcomes	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
-| 7. Your data	| Provides clear description and specifically discusses relation between your experience and the outcomes written in the article (1 point) | Missing, unclear, or does not discuss relation between your experience and the outcomes written in the article (0 points) |
-| 8. Future directions	| Provides unique future direction (1 point) |	Does not provide unique future direction (0 points) |
-| 9. APA-formatted citation	| Provides accurate APA citation (1 point) | Does not provide accurate APA citation (0 points) |
+| Name and date | Provides accurate information (1 point) | Missing or inaccurate (0 points) |
+| Description	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| Independent variables	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| Dependent variables	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| Experimental hypothesis	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| Outcomes	| Provides clear and accurate description (1 point)	| Missing, unclear, or inaccurate (0 points) |
+| Your data	| Provides clear description and specifically discusses relation between your experience and the outcomes written in the article (1 point) | Missing, unclear, or does not discuss relation between your experience and the outcomes written in the article (0 points) |
+| Future directions	| Provides unique future direction (1 point) |	Does not provide unique future direction (0 points) |
+| APA-formatted citation	| Provides accurate APA citation (1 point) | Does not provide accurate APA citation (0 points) |
 | Due date |	Submitted on time (1 point)	| Submitted late (0 points) |
 
 ## Lab Reports this Semester {-}
@@ -39,9 +39,9 @@ An example lab report can be found [here](SampleLabReport.pdf).
 - [Link to experiment](https://research.sc/participant/login/dynamic/BB2C8E1A-D299-4456-AEB0-6BEB59C7FFF5)
 - Article: Karas et al. (2019)
 
-### Th 10/10, Sentence prediction (5 min) {-}
+### Th 10/10, Word learning through disfluent speech (5 min) {-}
 - [Link to experiment](https://research.sc/participant/login/dynamic/6824FDBF-4409-4B02-AE9E-10BA428B1D61)
-- Article: Gambi et al. (2021)
+- Article: Libersky et al. (2023)
 
 ### Th 10/26, Learning new words through reading (15-20 min)	{-}
 - [Link to experiment](https://research.sc/participant/login/dynamic/B3E7A61D-6F92-4B3A-B80A-8D8513D01C6B)

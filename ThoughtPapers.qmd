@@ -27,7 +27,7 @@ Based on the readings and your experience in class so far, do you think that lan
 ### Due 10/12, G: Language Development/Language in Machines {-}
 Choose a few examples from the textbook of challenges that children face in language development. Open [ChatGPT](https://chat.openai.com/) (requires Open AI account but is free), [Bard](https://bard.google.com/) (access through Google but is free), or [Bing](https://www.bing.com/?scope=web&FORM=HDRSC2) (requires Microsoft account but is free). Give prompts to these AI language tools that match childrens’ language challenges. Does the AI tool respond similarly to children? Give the response and explain why you think that the response matches or is different from children. Relevant readings: C&C chapter 7 and epilogue, Sedivy chapter 2.
 
-### Due 10/27, H: Second Language Acquisition {-}
+### Due 10/17, H: Second Language Acquisition {-}
 How does one’s first language facilitate and hinder second language acquisition? How does second language acquisition affect one’s native language? Give at least two examples of each case (facilitate, hinder, affect). Relevant readings: Sedivy chapter 12.
 
 ## <span style="color:#12BA7C">Section 3</span>
@@ -51,3 +51,15 @@ If you think about popular media about zombies, they vary in their motor skills 
 
 ### Due 11/28, N: Language and Music {-}
 Music, like language, involves a complex set of activities and mental processes. Try to generate as detailed a list as you can of the various components that go into musical and linguistic activity, going beyond those discussed in the textbook. What makes someone good at music or language? Once you’ve generated your lists, identify which of the skills that are needed for music appear to have close analogues in language. Where do you think it would be most likely that you’d see crossover in cognitive processing? Create a proposal for how you might gather evidence to support your idea of connections between music and language skills. 
+
+
+## Thought Paper Grading Rubric {-}
+| Criteria |	Great Job |	Needs Work |
+| --- | ------ | --- |
+| Name and date | Provides accurate information (1 point) | Missing or inaccurate (0 points) |
+| Length | At least one page not including references (1 point) | Less than required (0 points) |
+| Formatting | Double spaced, 12 point font (1 point) | Inaccurate formatting (0 points) |
+| Content | Provides clear, thoughtful discussion of the prompt that shows the student read the paper (if required by prompt) and meaningfully engaged in thinking about the prompt and their response (6 points) | Unclear or does not demonstrate meaningful engagement with the prompt (0-5 points) |  
+| Due date |	Submitted on time (1 point)	| Submitted late (0 points) |
+
+

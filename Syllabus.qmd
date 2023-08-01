@@ -62,12 +62,17 @@ reading.
 
 ## Course Learning Objectives {-}
 
-Upon completion of this course students will
+The goal in this course is to teach you the skills and concepts needed to pose questions about the psychology of language in a rigorous and scientific way, to research and evaluate scientific findings related to these questions, and to critically evaluate and develop research protocols that answer these questions. In the process, you will become better able to evaluate scientific claims presented in the media and elsewhere. You will participate actively in class lectures and discussions. In addition, you will participate in exercises and laboratories designed to introduce you to how to use science to understand language. You will design a research project to gain a hands-on understanding of the psychology of language. Whether you continue in science or not, this course will benefit you in thinking critically about everyday science claims in the media and in evaluating scientific evidence for decision making. You will become a critically-thinking consumer of science, learning to detect both flaws and benefits of experimental designs and interpretations and to formulate alternate explanations. If you complete the course successfully, you will be able...
 
--   
-
--   
-
+- to recognize, analyze, and apply principles of scientific research
+- to discover what is known about a research topic
+- to understand how researchers study the psychology of language and when specific techniques are most useful
+- to evaluate different perspectives on fundamental questions about human language
+- to formulate a question about language in a way that can be tested empirically
+- to communicate research findings and your thoughts orally and in writing
+- to participate in experimental research and evaluate research findings 
+ - to employ critical thinking in evaluating scientific claims
+ 
 ## Course Structure {-}
 
 [myCourses](https://my.unh.edu/canvas) is the learning management tool we use for this course. The
@@ -79,8 +84,8 @@ course is organized by class meetings. You will be able to find external reading
 |---------------|-------|------------------------|
 | Quizzes                                         | 15%               | There are 5 quizzes for this course, which are scheduled on the course calendar. Each quiz is worth 3% of the final grade (5 quizzes x 3% = 15% total)                                                                                                                                                                                                           |
 | Class Attendance, Participation, and Discussion | 20%               | Attending and participating in class are important parts of this course. Attendance will be taken in each class period. Participation will be assessed for each class period and students will be given multiple options for participation over the course of the semester (e.g., group discussion, pair discussion, self-reflection, in class activities, etc.) |
-| Thought Papers                                  | 20%               | There are four required thought papers for this course. Each week will come with the opportunity to complete a thought paper and students are expected to complete at least four over the course of the semester. Each paper will be worth 5% of the final grade (4 papers x 5% = 20% total)                                                                     |
 | Lab Reports                                     | 15%               | Students will be required to complete three lab reports during the semester. Each lab report will be worth 5% of the final grade (3 lab reports x 5% = 15% total)                                                                                                                                                                                                |
+| Thought Papers                                  | 20%               | There are four required thought papers for this course. Each week will come with the opportunity to complete a thought paper and students are expected to complete at least four over the course of the semester. Each paper will be worth 5% of the final grade (4 papers x 5% = 20% total)                                                                     |
 | Final Presentation                              | 15%               | There will be a final presentation in the final weeks of the semester.                                                                                                                                                                                                                                                                                           |
 | Final Paper                                     | 15%               | There will be a final paper along with the presentation in the final weeks of the semester.                                                                                                                                                                                                                                                                      |
 
@@ -94,7 +99,7 @@ Please watch this video on common misconceptions about office hours:
 Office hours are set times dedicated to all of you. This means that I will be in my office waiting for you to come by and talk to me with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns. If you are not available during my regularly scheduled office hours, please email me to schedule a different time to meet. 
 
 ### Late work
-I would **highly recommend** staying caught up as much as possible, but if you need to turn something in late, that’s fine, just please let me know. Specific policies for late assignments are listed for individual assignments.
+I would **highly recommend** staying caught up as much as possible, but if you need to turn something in late, that’s fine, just please let me know at least one day in advance. Specific policies for late assignments are listed for individual assignments.
 
 ### Technical Requirements and Technical Support {-}
 See [website listings](https://online.unh.edu/technical-requirements) for current recommendations and requirements related to this course. For technical assistance please call (603) 862-4242 or fill out an [online support form](https://itsupport.unh.edu/onlinelearning/).
@@ -112,11 +117,11 @@ Plagiarism of any type may be grounds for receiving an “F” in an assignment 
 
 The following guidelines will create a comfortable and productive learning environment throughout the semester.
 
-You can expect Professor Roark to: 
+You can expect me to: 
 - Respect you as individuals
 - Give timely feedback
 - Assign work that meets the learning objectives of the course
-- Adhere to the time expectations for a X unit course
+- Adhere to the time expectations for a 4 credit course
 - Give assessments that accurately reflect the material covered in class
 - Provide clear and timely expectations for course requirements
 - Reply to e-mails within 24-48 hours on weekdays
@@ -127,7 +132,7 @@ I expect you to:
 - Adhere to the highest level of academic integrity
 - Spend an adequate amount of time studying course materials each week so you can identify where you need clarification early in the learning process
 - Seek help when appropriate
-- Communicate with your instructor about challenges
+- Communicate with me about challenges
 
 ### General well-being and stress
 
@@ -137,7 +142,7 @@ All of us benefit from support during times of struggle. You are not alone. Ther
 
 If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. [Psychological and Counseling Services (PACS)](https://www.unh.edu/pacs/) is here to help, (603) 862-2090. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help. Your instructor can point you to resources.
 
-If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night you can contact Rapid Response Access Point at 833-710-6477 or visi NH988.com. If the situation is life threatening, call the police. (UNH Police: (603) 862-1427; Off campus: 911).
+If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night you can contact Rapid Response Access Point at 833-710-6477 or visit NH988.com. If the situation is life threatening, call the police. (UNH Police: (603) 862-1427; Off campus: 911).
 
 If you or someone you know is experiencing food insecurity -- worry about affording food -- there are campus resources to help. Fill out a [Swipe it Forward request form](https://cm.maxient.com/reportingform.php?UnivofNH&layout_id=15) or visit the Cats' Cupboard in the MUB 140A. See this [website](https://www.unh.edu/dean-of-students/getting-help/housing-food-financial-basic-needs-support) for more Basic Needs Support and Resources. 
 

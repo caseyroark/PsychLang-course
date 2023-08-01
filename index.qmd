@@ -1,6 +1,6 @@
 # Welcome! {.unnumbered}
 
-![](images/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg){style="float:right;" fig-alt="Illustration of three species of Palmer Archipelago penguins: Chinstrap, Gentoo, and Adelie. Artwork by @allison_horst." width="390"}
+![](images/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg){style="float:right;"}
 
 #### Learn about the cognitive and neural basis of our remarkable ability to communicate
 
