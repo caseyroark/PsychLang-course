@@ -1,7 +1,7 @@
 # Course Schedule {.unnumbered}
 
 | Week   | Date          | Topics                                                        | Readings                                                                                                 | Assignments                                                   |
-|-------|----------|-------------------|---------------------|----------------------|
+|-------|--------|-------------------|-----------------------|----------------------|
 | 1      | T 8/29        | Introduction to Psychology of Language                        |                                                                                                          |                                                               |
 | 1      | Th 8/31       | Science of Language                                           | Sedivy - chapter 1<br /> C&C - chapters 1-2                                                              |                                                               |
 | 2      | T 9/5         | Brief Introduction to Language in the Brain                   | Sedivy - chapter 3                                                                                       |                                                               |
@@ -16,7 +16,7 @@
 | 6      | Th 10/5       | Is language special to humans? Non-human animal communication | C&C - chapter 7<br /> Based on groups: Berwick et al. (2011), Bray et al. (2021), or Ramus et al. (2000) | [Thought Paper Option F]{style="color:#048BA8"}               |
 | 7      | T 10/10       | Is language special to humans? Language in machines           | C&C - epilogue<br /> Contreras Kallens et al. (2023)                                                     | Lab Report 2                                                  |
 | 7      | Th 10/12      | First Language Acquisition / Language Development             | Sedivy - chapter 12 (up to 12.3) <br /> Schwab & Lew-Williams (2016)                                     | Quiz 3 <br /> [Thought Paper Option G]{style="color:#048BA8"} |
-| 8      | T 10/17       | Second Language Acquisition                                   | Juffs (2010)                                                                                             | [Thought Paper Option H]{style="color:#048BA8"}               |
+| 8      | T 10/17       | Second Language Acquisition                                   | Bjork & Kroll (2015)                                                                                     | [Thought Paper Option H]{style="color:#048BA8"}               |
 | 8      | Th 10/19      | Reading                                                       | Sedivy - chapter 8 (starting 8.4) and 11 (up to 11.2)<br /> Treiman (2000)                               | Final paper proposal                                          |
 | 9      | T 10/24       | Language and Communication Disorders I - Dyslexia             | Ozernov-Palchik & Gaab (2016) pages 156-162                                                              | [Thought Paper Option I]{style="color:#12BA7C"}               |
 | 9      | Th 10/26      | Proposal feedback and time to work on project                 |                                                                                                          | Lab Report 3                                                  |
