@@ -36,7 +36,7 @@ How does one’s first language facilitate and hinder second language acquisitio
 How do digital technologies, such as e-books or online reading platforms, affect the way that readers interact with and process written texts? What are some of the advantages and disadvantages of these technologies? Give a few examples of how you might design digital reading environments to support optimal reading comprehension and learning. 
 
 ### Due 11/2, J: Language and Communication Disorders {-}
-How does dyslexia affect abilities outside of reading? Does having dyslexia always make performance worse? Describe an example of something individuals with dyslexia are better or faster at than typical individuals and explain why this might be. 
+How does dyslexia affect abilities outside of reading? Does having dyslexia always make performance worse? Describe an example of something individuals with dyslexia are better or faster at than typical individuals and explain why this might be, linking to at least one theory of dyslexia discussed in class.  
 
 ### Due 11/6, K: Language and Culture {-}
 Read the Introduction section (pages 1-2) of the article by [Bailey et al. (2022)](papers/Baileyetal2022.pdf). In your own words, describe the purpose and basic methodology of the study. More generally, discuss how language shapes our perceptions of gender roles and expectations. 

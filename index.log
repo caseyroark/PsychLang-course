@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.1)  2 AUG 2023 14:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.1)  5 AUG 2023 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -749,9 +749,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
 \BKM@id=\count340
 )) (/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2023/07/28 v3.6m Customizing captions (AR)
+Package: caption 2023/07/31 v3.6n Customizing captions (AR)
 (/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2023/07/28 v2.4c caption3 kernel (AR)
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen285
 \captionmargin=\dimen286
 \caption@leftmargin=\dimen287
@@ -1162,10 +1162,10 @@ For immediate help type H <return>.
 l.260   \faIcon{location-dot}
                               ~ HORT 215 
 Here is how much of TeX's memory you used:
- 38388 strings out of 477869
- 787594 string characters out of 5821768
+ 38389 strings out of 477869
+ 787610 string characters out of 5821768
  1913875 words of memory out of 5000000
- 58751 multiletter control sequences out of 15000+600000
+ 58752 multiletter control sequences out of 15000+600000
  564492 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,7n,120p,10900b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
