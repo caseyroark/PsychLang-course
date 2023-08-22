@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.1)  5 AUG 2023 17:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.5)  22 AUG 2023 17:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **index.tex
 (./index.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
+L3 programming layer <2023-08-03>
 (/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrreprt.cls
 Document Class: scrreprt 2023/07/07 v3.41 KOMA-Script document class (report)
 (/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -196,7 +196,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )) (/Users/casey/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-06-30 L3 programming layer (loader) 
+Package: expl3 2023-08-03 L3 programming layer (loader) 
 (/Users/casey/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
 \g__graphics_track_int=\count269
@@ -1162,10 +1162,10 @@ For immediate help type H <return>.
 l.260   \faIcon{location-dot}
                               ~ HORT 215 
 Here is how much of TeX's memory you used:
- 38389 strings out of 477869
- 787610 string characters out of 5821768
- 1913875 words of memory out of 5000000
- 58752 multiletter control sequences out of 15000+600000
+ 38389 strings out of 477824
+ 787610 string characters out of 5821101
+ 1913885 words of memory out of 5000000
+ 58797 multiletter control sequences out of 15000+600000
  564492 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,7n,120p,10900b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s

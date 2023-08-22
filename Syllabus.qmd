@@ -51,7 +51,7 @@ language including (but not limited to):
     improvisation created language and changed the world](https://bookshop.org/p/books/the-language-game-how-improvisation-created-language-and-changed-the-world-nick-chater/16984145?ean=9781541674981). Basic Books.
 -   Sedivy, J. (2014). [Language in Mind: An introduction to
     psycholinguistics](https://www.amazon.com/Language-Mind-Psycholinguistics-Julie-Sedivy/dp/1605357057). Second edition. Oxford University Press.
--   Other PDFs will be provided on the [course website](https://my.unh.edu/canvas).
+-   Other PDFs will be provided on the [course website](https://mycourses.unh.edu).
 
 ## Course Description {-}
 
@@ -59,6 +59,8 @@ Theories of language structure, functions of human language, meaning,
 relationship of language to other mental processes, language
 acquisition, indices of language development, speech perception,
 reading.
+
+This is a writing intensive course.
 
 ## Course Learning Objectives {-}
 
@@ -98,35 +100,60 @@ Please watch this video on common misconceptions about office hours:
 
 Office hours are set times dedicated to all of you. This means that I will be in my office waiting for you to come by and talk to me with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns. If you are not available during my regularly scheduled office hours, please email me to schedule a different time to meet. 
 
+### Attendance {-} 
+Attending and participating in class are important parts of this course. Attendance will be taken in each class period. Participation will be assessed for each class period and students will be given multiple options for participation over the course of the semester (e.g., group discussion, pair discussion, self-reflection, in class activities, etc.). If you need to miss class for a planned activity, please let me know as far in advance as possible. If you need accommodation for a religious or cultural holiday/observance, you are encouraged to make the request as early in the semester as possible. 
+
+If you are dealing with an unexpected, extenuating circumstance that will keep you out of class or affect your performance for more than a day or two, reach out to the Dean of Students ([dean.students@unh.edu](dean.students@unh.edu)) to request a letter be sent to all your faculty. If you are required to miss a significant class, you will be provided temporary academic supports so that you can continue to make satisfactory progress in this course. Please contact your course instructor to discuss the specific types of supports that will be implemented during your absence. 
+
 ### Late work
-I would **highly recommend** staying caught up as much as possible, but if you need to turn something in late, that’s fine, just please let me know at least one day in advance. Specific policies for late assignments are listed for individual assignments.
+I would **highly recommend** staying caught up as much as possible, but if you need to turn something in late, please let me know at least 24 hours before the due date. Specific policies for late assignments are listed for individual assignments.
 
 ### Technical Requirements and Technical Support {-}
 See [website listings](https://online.unh.edu/technical-requirements) for current recommendations and requirements related to this course. For technical assistance please call (603) 862-4242 or fill out an [online support form](https://itsupport.unh.edu/onlinelearning/).
 
 ### University Disability Accommodations {-}
-The University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you must register with [Student Accessibility Services (SAS)](http://www.unh.edu/studentaccessibility) or directly contact SAS at (603) 862-2607.  
-Please provide me with that information privately so that we can review those accommodations.
+The University is committed to providing students with documented disabilities equal access to all university programs and facilities. If you think you have a disability requiring accommodations, you must register with [Student Accessibility Services (SAS)](http://www.unh.edu/studentaccessibility) or directly contact SAS: 227 Smith Hall or sas.office@unh.edu. Accommodation letters are created by SAS with the student. Please follow-up with me privately as soon as possible to ensure timely implementation of the identified accommodations in the letter. Faculty have an obligation to respond once they receive official notice of accommodations from SAS, but are under no obligation to provide retroactive accommodations.
+
+### Confidentiality and Mandatory Reporting of Sexual Violence or Harassment {-}
+The University of New Hampshire and its faculty are committed to assuring a safe and productive educational environment for all students and for the university as a whole. To this end, **the university requires faculty members to report to the university’s [Title IX Coordinator](https://www.unh.edu/diversity-inclusion/sexual-misconduct) (Bo Zaryckyj, Bo.Zaryckyj@unh.edu, 603-862-2930/1527 TTY) any incidents of sexual violence and harassment shared by students**. If you wish to speak to a confidential support service provider who does not have this reporting responsibility because their discussions with clients are subject to legal privilege, you can contact SHARPP (Sexual Harassment & Rape Prevention Program) at (603) 862-7233/TTY (800) 735-2964. For more information about what happens when you report, how the university treats your information once a report is made to the Title IX Coordinator, your rights and reporting options at UNH (including anonymous reporting options) please visit student [reporting options](https://www.unh.edu/diversity-inclusion/sexual-misconduct/reporting-students).
+
+Help us improve our campus and community climate. If you have observed or experienced an incident of bias, discrimination or harassment, please report the incident by contacting the Civil Rights & Equity Office at UNH.civilrights@unh.edu or (603) 862-2930 voice/ (603) 862-1527 TTY / 7-1-1 Relay NH, or visit the [CREO website](https://www.unh.edu/diversity-inclusion/civil-rights-equity-office). Anonymous reports may be submitted. 
+
+[Lauren's Promise](https://laurenmccluskey.org/laurens-promise/). I will listen and believe you if someone is threatening you. Lauren McCluskey, a 21-year-old honors student athlete, [was murdered on October 22, 2018 by a man she briefly dated on the University of Utah campus](https://www.sltrib.com/opinion/commentary/2019/02/10/commentary-failing-lauren/). We must all take action to ensure that this never happens again. If you are in immediate danger, call 911 or UNH police ((603) 862-1427). If you are experiencing sexual assault, domestic violence, or stalking, please report it to me and I will connect you to resources or call UNH’s Psychological and Counseling Services ((603) 862-2090).
+
+### Credit Hours {-}
+This syllabus reflects the federal definition of a credit hour, which entails a minimum 3 hours of engaged time per week per credit over a 15-week semester. Examples of engaged time include class time, assignments, examinations, laboratories, participation in course-related experiences (attending a talk or performance, speakers and events, fieldwork, etc.), conferences, and office hours. Student work reflects intended learning outcomes and is verified through evidence of student achievement. For more information, please see [this document](https://www.neche.org/wp-content/uploads/2018/12/Pp111_Policy_On_Credits-And-Degrees.pdf).
 
 ### Academic Honesty {-}
 Students are required to abide by the UNH Academic Honesty policy located in the [Student Rights, Rules, and Responsibilities Handbook](https://catalog.unh.edu/srrr/).   
  
 Plagiarism of any type may be grounds for receiving an “F” in an assignment or an “F” in the overall course.  Plagiarism is defined as “the unattributed use of the ideas, evidence, or words of another person, or the conveying the false impression that the arguments and writing in a paper are your own.” (UNH Academic Honesty Policy, 09.3) Incidents are reported to the school dean and may be grounds for further action.  If you have questions about proper citation refer to your department’s writing guidelines.  You can contact me at any time on this issue. Additional resources can be found through the [library guides on citing sources](http://libraryguides.unh.edu/unhmcitingsources).
 
+### Artificial Intelligence {-}
+Unless otherwise specified, the use of Automated Writing Tools, including ChatGPT and similar artificial intelligence (AI) tools, is strictly prohibited in this course, even when properly attributed. The use of automated writing tools is considered plagiarism (as defined by [UNH’s Academic Integrity Policy](https://catalog.unh.edu/srrr/university-policies-regulations/academic-integrity/)) and will be handled in accordance with the existing policy: "Use or submission of intellectual property, ideas, evidence produced by another person, including computer generated text or work outsourced to third-parties, in whole or in part as one's own in any academic assessment without providing proper citation or attribution. In some cases, reusing one’s own previous work without acknowledging or citing the original work can constitute self-plagiarism."
+
+### NameCoach {-}
+We have a new tool in Canvas, NameCoach, that will help us all to pronounce each other’s names properly.  Please join me in making our learning environment as inclusive as possible by recording your name (instructions [here](https://td.unh.edu/TDClient/60/Portal/KB/ArticleDet?ID=4648)) and taking advantage of the opportunity to respectfully learn how to pronounce each other’s names.
+
+### Curtailed Operations {-} 
+If the university curtails operations due to weather, we will not hold in-person activities for our safety and the safety of others. As soon as possible, I will post an announcement on Canvas about due dates, any make-up work, and (if applicable) any online options that may make sense depending on where we are in the course.  Please make sure you have access to the UNH Alert RAVE system. If needed, sign up for RAVE Alerts [here](https://www.getrave.com/login/unh).
+
 ### Expectations {-}
 
 The following guidelines will create a comfortable and productive learning environment throughout the semester.
 
 You can expect me to: 
+
 - Respect you as individuals
 - Give timely feedback
 - Assign work that meets the learning objectives of the course
 - Adhere to the time expectations for a 4 credit course
 - Give assessments that accurately reflect the material covered in class
 - Provide clear and timely expectations for course requirements
-- Reply to e-mails within 24-48 hours on weekdays
+- Reply to emails within 24-48 hours on weekdays
 
 I expect you to: 
+
 - Be attentive and engaged
 - Come to class ready to participate (having done the readings)
 - Adhere to the highest level of academic integrity
@@ -134,7 +161,7 @@ I expect you to:
 - Seek help when appropriate
 - Communicate with me about challenges
 
-### General well-being and stress
+## General well-being and stress
 
 Do your best to follow guidelines to keep physically healthy. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.
 
@@ -146,13 +173,21 @@ If you or someone you know is feeling suicidal or in danger of self-harm, call s
 
 If you or someone you know is experiencing food insecurity -- worry about affording food -- there are campus resources to help. Fill out a [Swipe it Forward request form](https://cm.maxient.com/reportingform.php?UnivofNH&layout_id=15) or visit the Cats' Cupboard in the MUB 140A. See this [website](https://www.unh.edu/dean-of-students/getting-help/housing-food-financial-basic-needs-support) for more Basic Needs Support and Resources. 
 
-### [Lauren's Promise](https://laurenmccluskey.org/laurens-promise/) 
+## General resources {-}
 
-I will listen and believe you if someone is threatening you.
+[Important Information about UNH Policies and Procedures for Students](https://td.unh.edu/TDClient/60/Portal/KB/ArticleDet?ID=1368)
 
-Lauren McCluskey, a 21-year-old honors student athlete, [was murdered on October 22, 2018 by a man she briefly dated on the University of Utah campus](https://www.sltrib.com/opinion/commentary/2019/02/10/commentary-failing-lauren/). We must all take action to ensure that this never happens again.
+Follow this link to view the UNH Academic Calendar that includes important dates for students and faculty including holidays and observances important to members of the UNH community: [UNH Academic Calendar](https://calendar.unh.edu//MasterCalendar.aspx?data=f1bM4GJyEC7OAZpRGWNxSrbbl6srt42DbygweOCcQCqXBA2URBJ7CdAOl8d5H3633QULXnJ%2faAyyr%2b0jnNFEvyvAYm9vn8bVYbr%2fGq1YY%2fvt%2f6p2cwrqcxdBIjjKw8NKEKDCfXgh49P2%2fDKyCjbzmm2DUp3AZkcy47t9pGdy2WMAMSzjLHAq7ZTMUfF67KnmQhLAc4DhDAEdHOkT935E6wO%2fL4IhRpjd)
 
-If you are in immediate danger, call 911 or UNH police ((603) 862-1427).
+### Center for Academic Resources (CFAR) {-}
+Center for Academic Resources (CFAR) is where students go to improve their study skills, time management, and understanding of UNH’s academic culture. Our [professional educational counselors](https://www.unh.edu/student-success/center-academic-resources/meet-staff) and [peer academic mentors](https://www.unh.edu/student-success/center-academic-resources/resources/working-academic-mentor) work within students’ course materials to demonstrate best practices for learning concepts and preparing for exams. Find an appointment with an academic mentor of your choice on the CFAR calendar at https://unh.mywconline.com(https://unh.mywconline.com). To talk with a professional educational counselor, email us at [unh.cfar@unh.edu](unh.cfar@unh.edu), use Chat Live on our website at [https://www.unh.edu/cfar](https://www.unh.edu/cfar), or stop by Smith Hall Second floor, Monday-Friday from 8:00-4:30. The CFAR website also has a large selection of [study tips and tools](https://www.unh.edu/student-success/center-academic-resources).
 
-If you are experiencing sexual assault, domestic violence, or stalking, please report it to me and I will connect you to resources or call UNH’s Psychological and Counseling Services ((603) 862-2090).
+### Knack {-}
+Knack is a Peer-to-Peer tutoring platform that is available to all enrolled students for all undergraduate courses in Durham at no cost to students. Students looking for additional assistance outside of the classroom are advised to consider working with a peer tutor through Knack. UNH has partnered with Knack to provide students with access to verified tutors who have successfully completed this course. To view available tutors, visit [unh.joinknack.com](unh.joinknack.com). and sign in with your student account.
+
+### Early Alert Progress Report {-}
+The University is invested in your academic success, and myWildcatSuccess is a tool to help you, your faculty, and your advisors communicate. If a faculty member is concerned about your academic behavior or performance, they may submit an academic alert -- particularly around Week 5 (Sept. 22-Oct 1). Academic alerts are not punitive. The goal is to provide you with support and resources to support your success. If you receive an academic alert, you will receive an email to your UNH email address from my name in the format <Instructor Name> [Notification@GradesFirst.com] on behalf of <Instructor Name>. Alternately, find your Progress Reports under the Reports tab in myWildcatSuccess. To get to myWildcatSuccess, search for it under Tools in the portal [my.usnh.edu](https://my.usnh.edu/dashboard). and save it to Shortcuts.
+
+The email will contain the concern and campus resource links to help you address the concern before it becomes a problem. Please meet with your faculty member or your advisor about the concern. The purpose of these alerts is to encourage you to visit the campus resources you need early on, so that you can get back on track for a successful semester. 
+
 
