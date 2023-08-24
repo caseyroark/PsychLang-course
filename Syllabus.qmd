@@ -4,7 +4,7 @@
 
 ::: {.grid .course-details}
 ::: {.g-col-6}
-### Instructor
+### Instructor {-}
 
 -   {{< fa user >}}   [Dr. Casey L. Roark](www.roarklab.com)
 -   {{< fa university >}}   440 McConnell Hall
@@ -14,14 +14,14 @@
 :::
 
 ::: {.g-col-6}
-### Course details
+### Course details {-}
 
 -   {{< fa caret-right >}}   PSYC 712W -- Psychology of Language
 -   {{< fa check-square >}}   Pre-requisites: PSYC 402, 505, 512, 513 or permission
 -   {{< fa calendar >}}   Tuesday and Thursday
 -   {{< fa calendar-alt >}}   Fall 2023
 -   {{< fa clock >}}   2:10-3:30 pm
--   {{< fa location-dot >}}   HORT 215
+-   HORT 215
 :::
 :::
 

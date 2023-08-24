@@ -6,9 +6,9 @@
 
  
 
-##### [PSYC 712W - Fall 2023]{style="color: gray"}
+##### [PSYC 712W - Fall 2023]{style="color: gray"} 
 
-##### [Department of Psychology]{style="color: gray"}
+##### [Department of Psychology]{style="color: gray"} 
 
 ##### [University of New Hampshire]{style="color: gray"}
 
@@ -19,7 +19,7 @@
 ::: home
 ::: {.grid .course-details}
 ::: {.g-col-4 .g-col-sm-6 .g-col-md-4}
-### Instructor
+### Instructor {-}
 
 -   {{< fa user >}}   [Dr. Casey L. Roark](https://www.roarklab.com)
 -   {{< fa university >}}   440 McConnell Hall
@@ -29,18 +29,18 @@
 :::
 
 ::: {.g-col-4 .g-col-sm-6 .g-col-md-4}
-### Course details
+### Course details {-}
 
 -   {{< fa calendar >}}   Tuesday and Thursday
 -   {{< fa calendar-alt >}}   Fall 2023
 -   {{< fa clock >}}   2:10-3:30 pm
--   {{< fa location-dot >}}   HORT 215
+-   HORT 215
 :::
 
 
 
 ::: {.g-col-4  .g-col-md-4 .contact-policy}
-### Contacting me
+### Contacting me {-}
 
 E-mail is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours (really), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!
 
