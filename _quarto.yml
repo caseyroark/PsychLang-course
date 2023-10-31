@@ -5,7 +5,7 @@ project:
 book:
   title: "Psychology of Language"
   author: "Casey L. Roark"
-  date: "10/18/2023"
+  date: "10/31/2023"
   chapters:
     - index.qmd
     - Syllabus.qmd
