@@ -3,19 +3,13 @@ project:
   output-dir: docs
 
 book:
-  title: "Psychology of Language"
+  title: "Psychology of Language, Spring 2024"
   author: "Casey L. Roark"
-  date: "11/13/2023"
+  date: "12/27/2023"
   chapters:
     - index.qmd
     - Syllabus.qmd
-    - 00-CourseSchedule.qmd
-    - part: "Assignments"
-      chapters:
-        - LabReports.qmd
-        - ThoughtPapers.qmd
-        - FinalPaperPresentation.qmd
-        - Capstone.qmd
+    - SP24-CourseSchedule.qmd
 
 bibliography: references.bib
 

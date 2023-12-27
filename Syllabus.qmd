@@ -10,7 +10,7 @@
 -   {{< fa university >}}   440 McConnell Hall
 -   {{< fa envelope >}}   [casey.roark\@unh.edu](mailto:casey.roark@unh.edu)
 -   {{< fa brands twitter >}}   [caseyroark](https://www.twitter.com/caseyroark)
--   {{< fa calendar-check >}}   Wednesday 1-3 pm or by appointment
+-   {{< fa calendar-check >}}   Tuesday 12:30-1:30 pm, Thursday 10-11 am, or by appointment
 :::
 
 ::: {.g-col-6}
@@ -19,8 +19,8 @@
 -   {{< fa caret-right >}}   PSYC 712W -- Psychology of Language
 -   {{< fa check-square >}}   Pre-requisites: PSYC 402, 505, 512, 513 or permission
 -   {{< fa calendar >}}   Tuesday and Thursday
--   {{< fa calendar-alt >}}   Fall 2023
--   {{< fa clock >}}   2:10-3:30 pm
+-   {{< fa calendar-alt >}}   Spring 2024
+-   {{< fa clock >}}   11:10 am - 12:30 pm
 -   HORT 215
 :::
 :::
@@ -47,8 +47,6 @@ language including (but not limited to):
 
 ## Course materials (required) {-}
 
--   Christiansen, M. H. & Chater, N. (2022). [The Language Game: How
-    improvisation created language and changed the world](https://bookshop.org/p/books/the-language-game-how-improvisation-created-language-and-changed-the-world-nick-chater/16984145?ean=9781541674981). Basic Books.
 -   Sedivy, J. (2014). [Language in Mind: An introduction to
     psycholinguistics](https://www.amazon.com/Language-Mind-Psycholinguistics-Julie-Sedivy/dp/1605357057). Second edition. Oxford University Press.
 -   Other PDFs will be provided on the [course website](https://mycourses.unh.edu).
@@ -64,32 +62,220 @@ This is a writing intensive course.
 
 ## Course Learning Objectives {-}
 
-The goal in this course is to teach you the skills and concepts needed to pose questions about the psychology of language in a rigorous and scientific way, to research and evaluate scientific findings related to these questions, and to critically evaluate and develop research protocols that answer these questions. In the process, you will become better able to evaluate scientific claims presented in the media and elsewhere. You will participate actively in class lectures and discussions. In addition, you will participate in exercises and laboratories designed to introduce you to how to use science to understand language. You will design a research project to gain a hands-on understanding of the psychology of language. Whether you continue in science or not, this course will benefit you in thinking critically about everyday science claims in the media and in evaluating scientific evidence for decision making. You will become a critically-thinking consumer of science, learning to detect both flaws and benefits of experimental designs and interpretations and to formulate alternate explanations. If you complete the course successfully, you will be able...
+The overarching goal of this course is to teach you the skills and concepts that you need to critically evaluate scientific findings about the psychology of language. One of my goals is for you to take ownership over your own learning in this course to achieve the outcomes that you desire. My course is designed differently than most classes you've probably taken. The grade you achieve in this course is based on the learning objectives that you achieve and how deeply you demonstrate knowledge or mastery of the topics. More on this will follow below, but some of the possible course learning objectives are to . . . 
 
-- to recognize, analyze, and apply principles of scientific research
-- to discover what is known about a research topic
-- to understand how researchers study the psychology of language and when specific techniques are most useful
-- to evaluate different perspectives on fundamental questions about human language
-- to formulate a question about language in a way that can be tested empirically
-- to communicate research findings and your thoughts orally and in writing
-- to participate in experimental research and evaluate research findings 
-- to employ critical thinking in evaluating scientific claims
+- Assess claims made in research articles and evaluate whether the data support or refute theories about the psychology of language
+- Assess and evaluate the usefulness of different behavioral and neuroscientific methodologies to answer specific research questions
+- Formulate a question about language that can be tested empirically
+- Design an experiment that can address a specific research question about language
+- Synthesize research findings from multiple empirical sources
+- Communicate synthesized research findings in writing
+- Communicate synthesized research findings orally
  
 ## Course Structure {-}
 
-[myCourses](https://mycourses.unh.edu/courses) is the learning management tool we use for this course. The
+[myCourses/Canvas](https://mycourses.unh.edu/courses) is the learning management tool we use for this course. The
 course is organized by class meetings. You will be able to find external readings and submit assignments. Please do not message me through myCourses -- email me instead.
+
 
 ## Grades {-}
 
-| Item                                            | \% of final grade | Requirements                                                                                                                                                                                                                                                                                                                                                     |
-|---------------|-------|------------------------|
-| Quizzes                                         | 15%               | There are 5 quizzes for this course, which are scheduled on the course calendar. Each quiz is worth 3% of the final grade (5 quizzes x 3% = 15% total)                                                                                                                                                                                                           |
-| Class Attendance, Participation, and Discussion | 20%               | Attending and participating in class are important parts of this course. Attendance will be taken in each class period. Participation will be assessed for each class period and students will be given multiple options for participation over the course of the semester (e.g., group discussion, pair discussion, self-reflection, in class activities, etc.) |
-| Lab Reports                                     | 15%               | Students will be required to complete three lab reports during the semester. Each lab report will be worth 5% of the final grade (3 lab reports x 5% = 15% total)                                                                                                                                                                                                |
-| Thought Papers                                  | 20%               | There are four required thought papers for this course. Each week will come with the opportunity to complete a thought paper and students are expected to complete at least four over the course of the semester. Each paper will be worth 5% of the final grade (4 papers x 5% = 20% total)                                                                     |
-| Final Presentation                              | 15%               | There will be a final presentation in the final weeks of the semester.                                                                                                                                                                                                                                                                                           |
-| Final Paper                                     | 15%               | There will be a final paper along with the presentation in the final weeks of the semester.                                                                                                                                                                                                                                                                      |
+As mentioned above, grading and assessment of your learning in this course will function differently from what you have probably encountered in your other courses. Importantly, my decisions about how grades and learning assessments will happen in this class is based on the science of learning - that is, what we know about how to actually learn and engage in the material. Because this looks different from most of what you've probably experienced before, we will spend substantial time going over what this looks like at the beginning of the semester. 
+
+The grade you receive in this course is completely up to you. Your final grade will depend on class attendance (which is critical in this course) and completion of specific assessments of learning to a satisfactory standard. The assessments in this course are organized into modules. Achieving certain letter grades requires satisfactory completion of the different modules.
+
+**To earn an A in this course, all of the following are required:**
+
+1. Maximum of two unexcused absences
+2. 80% or higher on all quizzes
+3. 80% or higher on final exam
+4. Complete Foundational Module to a satisfactory level
+5. Complete Basic Module to a satisfactory level
+6. Complete Module B to a satisfactory level
+7. Complete Module A to a satisfactory level
+
+**To earn a B in this course, all of the following are required:**
+
+1. Maximum of three unexcused absences
+2. 70% or higher on all quizzes
+3. 70% or higher on final exam
+4. Complete Foundational Module to a satisfactory level
+5. Complete Basic Module to a satisfactory level
+6. Complete Module B to a satisfactory level
+
+**To earn a C in this course, all of the following are required:** 
+
+1. Maximum of four unexcused absences
+2. 60% or higher on all quizzes
+3. 60% or higher on final exam
+4. Complete Foundational Module to a satisfactory level
+5. Complete Basic Module to a satisfactory level
+
+**To earn a D in this course:** 
+
+1. More than four unexcused absences
+2. 60% or higher on all quizzes
+3. 60% or higher on final exam
+4. Complete Foundational Module to a satisfactory level
+
+**To earn an F in this course:** 
+
+1. More than four unexcused absences
+2. <60% or higher on all quizzes
+3. <60% or higher on final exam
+4. Incomplete/Unsatisfactory Foundational Module 
+
+If you are using this course to complete the Capstone requirement, you must complete the Capstone Module to a satisfactory standard. The Capstone requirement is inherently pass/fail – you either complete it to satisfactory standards or you do not. As this is independent from the other modules, you may complete the Capstone Module in addition to any other modules to receive your desired grade in the course.              
+
+### Modules: {-}
+
+**Foundational Module (required for A, B, C, and D)**
+
+- During Class 1: “Where are you now?” Note – if you join this course after the first class, you still need to complete this.
+- Homeworks 1-5 (must complete to satisfactory level, unlimited no-cost resubmissions)
+
+**Basic Module (required for A, B, and C)**
+
+- Homeworks 6-9 (must complete to satisfactory level, 2 no-cost resubmissions)
+- Pre-quiz learning assessment – at least 3/5 complete  [note: this can be any three of the five options]
+- Post-quiz learning assessment – at least 3/5 complete [note: this can be any three of the five options]
+- Research Reports 3/5 complete [note: this can be any three of the five options]
+- Reading questions 13/20 complete [note: this can be any 13 of the 20 options]
+
+**Module B (required for A and B)**
+
+- Homeworks 10-11 (must complete to satisfactory level, 0 no-cost resubmissions)
+- Pre-quiz learning assessment – at least 4/5 complete  [note: this can be any four of the five options]
+- Post-quiz learning assessment – at least 4/5 complete [note: this can be any four of the five options]
+- Special Topic paper
+- Research Reports 4/5 complete [note: this can be any four of the five options]
+- Reading questions – 15/20 complete [note: this can be any 15 of the 20 options]
+
+**Module A (required for A)**
+
+- Homeworks 12-13 (must complete to satisfactory level, 0 no-cost resubmissions)
+- Pre-quiz learning assessment – 5/5 complete
+- Post-quiz learning assessment – 5/5 complete
+- Special Topic presentation
+- Special Topic paper – additional section
+- Research Reports – 5/5 complete
+- Reading questions – 18/20 complete [note: this can be any 18 of the 20 options]
+
+**Capstone Module (required for taking this course to fulfill capstone requirement)**
+
+- Fill out capstone form and submit to Psychology office
+- Decide on an experiment topic and basic design – research question based on replication or extension or prior work
+- Gorilla Experiment Builder: make account, complete tutorials
+- Experimental Design and Analysis Plan – including variables, measures, and specific hypothesis/hypotheses
+- Gorilla Experiment Builder: build your experiment
+- Gorilla Experiment Builder: pilot test the entire experiment on yourself
+- Gorilla Experiment Builder: work with me to run experiment
+- Analyze experiment data to address your research hypothesis/question
+- Plot figures of experimental results
+- Discuss whether your results support/refute your hypothesis
+- Integrate your findings with existing literature (Discussion)
+- Motivate your research question from existing literature (Introduction)
+- Summarize your methods and results in writing (Methods, Results)
+- Summarize your entire experiment (question, design, results, discussion) briefly (Abstract)
+- Present results of experiment at Global, Racial, and Social Inequality Lab Symposium: "Memories and Memorials" on April 19, 2024 at Great Bay Community College in Portsmouth, NH. Transportation will be provided.
+
+**What do 'satisfactory' and 'unsatisfactory' mean?**
+
+My goal is for you to reach your desired learning objectives (and to get the grade you hope to achieve in this class). As a result, I need to assess whether you met a learning objective or you did not meet the learning objective. 
+Each assignment must be completed to satisfactory standards to be counted as complete. Unsatisfactory is the same as incomplete. There is no partial credit – an assignment either meets the standards or does not.
+
+The requirements for a satisfactory standard will be made clear for each assignment. Examples of both satisfactory and unsatisfactory responses will be given for many assignments. If you ever are unsure of what an assignment demands for satisfactory standard, please reach out to me.
+Assignments will have the possibility of resubmission (sometimes without a cost, other times with a cost - we will get into that in a sec) so that you can meet the satisfactory standards. 
+
+It's also critical for a satisfactory standard that you turn in assignments on time. Late work may be accepted - but it will cost you (see below).
+
+**Flexibility and tokens:**
+
+There is built-in flexibility across the course. For the Foundational and Basic Modules, you may resubmit the assignments at no cost (unlimited times for Foundational, up to two times for Basic). For resubmissions beyond this, we will use a token system.
+
+You will be given four (virtual) tokens at the beginning of the semester.
+
+You may earn additional tokens in the following ways:
+
+- turn in any Research Report at least 24 hours before the stated deadline (max 5 tokens)
+- turn in the Special Topic Paper at least 24 hours before the stated deadline (1 token)
+- visit my office hours (1 token per visit, max 2 tokens)
+- attend the class immediately before Spring Break (3/14/24; 1 token)
+- attend the last day of class (5/2/24; 1 token)
+
+You may spend tokens in the following ways: 
+
+- an additional resubmission attempt on any assignment (i.e., beyond two for Basic Module or any resubmission for A or B level)
+- remove an unexcused absence from your total number of absences
+- turn in an assignment up to 24 hours late (if you wanted to turn in an assignment 25 hours late, you'd need 2 tokens)
+- drop your lowest quiz score (only once)
+- If you have additional tokens at the end of the semester that you do not want to or cannot use on resubmissions, absences, or late assignments, you may spend two or three tokens to skip a question of your choice on the final exam (two tokens for short answer and drawing type questions, three tokens for essay questions). This can accumulate. If you have, let’s say, four tokens at the end of the semester, you may skip two short answer questions on the final exam. I’ll make sure you know how many tokens you have going into the final exam so you can indicate which questions you’d like to skip if relevant.
+- Finally, if you have four tokens left at the end of the semester, I'll increase your grade from a B, C, or D to a B+, C+, or D+. For example, say you go into the final with six tokens. You spend two tokens to skip two questions that you’d prefer not to answer. You end the course having earned a B. With those four leftover tokens, your grade will be increased to a B+. Note that it might make more sense for you to use tokens to account for absences or to resubmit an assignment. You will not be able to use tokens to get bumped up beyond the letter grade you earned (e.g., if you earned a B, you cannot be bumped up to an A- if you have not completed the requirements for an A). Intermediate minus distinctions will not be given unless under bizarre unforeseen circumstances. If you earned a specific letter grade, you’ve earned the full letter grade (e.g., A, B, C, D).
+
+**Unexcused versus excused absences:**
+
+An unexcused absence is any absence that does not have a clear, documented, and reasonable reason for missing class. You may spend one of your tokens to nullify an unexcused absence.
+
+If you must miss class for a clear, documented, and reasonable reason (e.g., sickness, medical reason, emergency, etc.), you do not need to spend one of your tokens. You must communicate with me as soon as possible with documentation, if applicable.
+
+If you need to miss class for a planned activity, please let me know as far in advance as possible. If you need accommodation for a religious or cultural holiday/observance, you are encouraged to make the request as early in the semester as possible. 
+
+### Assignment Types: {-}
+
+#### Reading Questions {-}
+
+For most classes (20/28 classes) there will be an assigned reading. There will be research questions associated with each reading that you should reflect on, answer, and identify concepts you are still struggling with or have questions about.
+
+The reading questions are meant to give you additional examples, guidance, or ways to think about the material you are encountering. It is not meant to demonstrate the only parts of the chapter you should read or pay attention to. You may be quizzed or asked about things that are in the reading, but are not addressed in the reading questions. You are responsible for all material in the reading.
+
+#### Homework {-}
+
+There are several homework assignments that are due throughout the semester. Some of these are foundational for further progress in the course and are thus a part of the Foundational Module. Some of these are basic aspects that I would expect to be mastered for general C-level passing of this course and are part of the Basic Module. Others are more advanced and get into demonstration of deeper conceptual knowledge on psychology of language and are in Modules A and B.
+
+Each assignment has its own description, which can be accessed through the course website. Take note of the specific assignments required for the completion of specific modules above.
+
+Most homework will align with readings and the topics that are being covered in class at that time.
+
+#### Quizzes and learning assessments {-}
+
+There will be five quizzes associated with the first part of this course. Quizzes are designed to make sure that you are engaging with and understanding the material and will cover both readings and lectures. Quizzes will be associated with each specific topic and will not be cumulative. Quizzes will be administered in person at the end of each topic and will have multiple choice, matching, fill-in-the-blanks, true/false, and identification question formats.
+
+Pre-quiz learning assessments. Before each quiz, you will complete a pre-quiz learning assessment. You will rate your confidence about certain topics and identify concepts you still have questions about. We will address these ongoing questions in class on the day before each quiz.
+
+Post-quiz learning assessments. After each quiz, you will complete a post-quiz learning assessment. For each question you were incorrect, you should reflect on your thinking – why did you make the response that you did? What was incorrect about this response and what is the correct response? How will you change your behavior for the next quiz?
+
+#### Final Exam {-}
+
+There is a cumulative written final exam for this course. This exam will assess your knowledge acquired from topics spanning across the course. The exam grades will not be curved, but please note the relatively flexible scores to demonstrate mastery over the material (e.g., A >= 80% on final exam; B >=70% on final exam; C/D: >= 60% on final exam; F: <60% on final exam) in addition to the other module-based assignments in the course.
+
+The final exam will occur in person on a date determined by the university’s schedule – this is not negotiable.
+
+As stated above, you may trade in tokens to skip questions on the final, with no limit on the number of tokens (2 tokens, 1 short answer or drawing question; 3 tokens, 1 essay question). Note that you may have a possible maximum of 14 tokens. There will be 10 questions on the final, so you will still need take the final, but this will simplify it greatly if you are able to/choose to save your tokens.
+
+#### Research Reports {-}
+
+Five times in the semester, Research Reports will be due. Research Reports require you to read a specific brief research article, answer some basic questions about the experimental design (e.g., dependent/independent variables, measures, hypotheses), summarize the methods and results in your own words, and reflect on the meaning of the research outcomes based on what you’ve learned in the class and your real-world experiences.
+
+#### Special Topic Paper {-}
+
+For students who wish to demonstrate further mastery over the course materials (and earn an A or B in the course), a Special Topic Paper will be required. This topic will be one of the advanced special topics covered in the second half of the course. This paper will require thinking deeply about how research in this topic area relates to concepts we have discussed in class.
+
+Basic requirements of a Special Topic Paper:
+
+- Selection of special topic (with my approval)
+- Read article assigned for special topic
+- Submitted on time – due by the beginning of class on the day of the special topic discussion
+- Fulfill specific requirements of special topic paper (defined specifically in that assignment)
+
+“A” requirements of a Special Topic Paper:
+
+- All Basic requirements
+- Complete an additional section: based on the research, identify an outstanding research question – something that was not answered here. Design an experiment that can address this question using a method we have discussed in class or you have read about.
+
+#### Special Topic Presentation {-}
+
+For students who wish to demonstrate further mastery over the course materials (and earn an A in the course), a Special Topic Presentation will be required. The presentation will cover the same material as the Special Topic Paper. Students will demonstrate additional in-depth knowledge by being able to communicate their research on the special topic orally with a PowerPoint/slides presentation to their peers. They should also be expected to facilitate discussion by asking questions to their peers and also answering any questions posed during discussion.
+
 
 ## Course Policies
 
@@ -98,7 +284,7 @@ Please watch this video on common misconceptions about office hours:
 
 {{< video https://vimeo.com/270014784?embedded=true&source=vimeo_logo&owner=2248721 >}}
 
-Office hours are set times dedicated to all of you. This means that I will be in my office waiting for you to come by and talk to me with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns. If you are not available during my regularly scheduled office hours, please email me to schedule a different time to meet. 
+Office hours are set times dedicated to all of you. This means that I will be in my office waiting for you to come by and talk to me with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns. If you are not available during my regularly scheduled office hours, please email me to schedule a different time to meet. *Plus, you can earn up to two tokens by coming to see me twice during my scheduled or one-off office hours!*
 
 ### Attendance {-} 
 Attending and participating in class are important parts of this course. Attendance will be taken in each class period. Participation will be assessed for each class period and students will be given multiple options for participation over the course of the semester (e.g., group discussion, pair discussion, self-reflection, in class activities, etc.). If you need to miss class for a planned activity, please let me know as far in advance as possible. If you need accommodation for a religious or cultural holiday/observance, you are encouraged to make the request as early in the semester as possible. 

@@ -6,7 +6,7 @@
 
  
 
-##### [PSYC 712W - Fall 2023]{style="color: gray"} 
+##### [PSYC 712W - Spring 2024]{style="color: gray"} 
 
 ##### [Department of Psychology]{style="color: gray"} 
 
@@ -25,16 +25,16 @@
 -   {{< fa university >}}   440 McConnell Hall
 -   {{< fa envelope >}}   [casey.roark\@unh.edu](mailto:casey.roark@unh.edu)
 -   {{< fa brands twitter >}}   [caseyroark](https://www.twitter.com/caseyroark)
--   {{< fa calendar-check >}}   Wednesday 1-3 pm or by appointment
+-   {{< fa calendar-check >}}   Tuesday 12:30-1:30 pm, Thursday 10-11 am, or by appointment
 :::
 
 ::: {.g-col-4 .g-col-sm-6 .g-col-md-4}
 ### Course details {-}
 
 -   {{< fa calendar >}}   Tuesday and Thursday
--   {{< fa calendar-alt >}}   Fall 2023
--   {{< fa clock >}}   2:10-3:30 pm
--   HORT 215
+-   {{< fa calendar-alt >}}   Spring 2024
+-   {{< fa clock >}}   11:10 am - 12:30 pm
+-   Kingsbury N133
 :::
 
 
