@@ -21,7 +21,7 @@
 -   {{< fa calendar >}}   Tuesday and Thursday
 -   {{< fa calendar-alt >}}   Spring 2024
 -   {{< fa clock >}}   11:10 am - 12:30 pm
--   HORT 215
+-   Kingsbury N133
 :::
 :::
 
